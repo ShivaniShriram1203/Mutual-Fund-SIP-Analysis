@@ -1,0 +1,1001 @@
+Investor_ID,Gender,Age,Marital_Status,Occupation,Annual_Income,City,State,Risk_Profile,Investment_Goal,Investment_Horizon_Years,Investor_Segment
+INV0001,Female,56,Single,Salaried,300000,Mumbai,Maharashtra,Moderate,House Purchase,16,Mass
+INV0002,Male,29,Single,Professional,1500000,Ahmedabad,Gujarat,Aggressive,House Purchase,11,HNI
+INV0003,Female,53,Married,Salaried,1000000,Ahmedabad,Gujarat,Aggressive,House Purchase,9,Affluent
+INV0004,Female,55,Single,Self-Employed,1500000,Mumbai,Maharashtra,Aggressive,Child Education,24,HNI
+INV0005,Male,27,Married,Professional,1200000,Hyderabad,Telangana,Conservative,Wealth Creation,13,Affluent
+INV0006,Female,23,Married,Salaried,300000,Solapur,Maharashtra,Moderate,Wealth Creation,16,Mass
+INV0007,Female,35,Single,Self-Employed,800000,Mumbai,Maharashtra,Aggressive,Wealth Creation,10,Affluent
+INV0008,Female,38,Single,Professional,800000,Ahmedabad,Gujarat,Moderate,House Purchase,13,Affluent
+INV0009,Male,37,Single,Salaried,2000000,Mumbai,Maharashtra,Conservative,Wealth Creation,11,HNI
+INV0010,Female,54,Single,Professional,300000,Chennai,Tamil Nadu,Conservative,Retirement,20,Mass
+INV0011,Female,23,Married,Salaried,1500000,Bengaluru,Karnataka,Conservative,Retirement,10,HNI
+INV0012,Female,26,Married,Business,1200000,Mumbai,Maharashtra,Aggressive,Child Education,23,Affluent
+INV0013,Female,56,Single,Salaried,1000000,Kolkata,West Bengal,Conservative,Retirement,12,Affluent
+INV0014,Female,26,Married,Salaried,1500000,Chennai,Tamil Nadu,Conservative,House Purchase,9,HNI
+INV0015,Female,37,Married,Professional,1000000,Pune,Maharashtra,Moderate,House Purchase,24,Affluent
+INV0016,Female,57,Single,Business,450000,Mumbai,Maharashtra,Conservative,House Purchase,19,Mass
+INV0017,Female,51,Single,Self-Employed,800000,Bengaluru,Karnataka,Moderate,Child Education,16,Affluent
+INV0018,Female,44,Single,Business,1200000,Bengaluru,Karnataka,Moderate,Retirement,17,Affluent
+INV0019,Female,55,Single,Self-Employed,1200000,Mumbai,Maharashtra,Conservative,Child Education,16,Affluent
+INV0020,Female,38,Married,Government Employee,1500000,Kolkata,West Bengal,Conservative,Wealth Creation,22,HNI
+INV0021,Female,23,Single,Professional,1000000,Ahmedabad,Gujarat,Conservative,Wealth Creation,6,Affluent
+INV0022,Male,38,Single,Professional,2000000,Chennai,Tamil Nadu,Aggressive,Wealth Creation,12,HNI
+INV0023,Male,22,Single,Business,1500000,Bengaluru,Karnataka,Conservative,Retirement,6,HNI
+INV0024,Female,24,Married,Professional,450000,Solapur,Maharashtra,Aggressive,Retirement,20,Mass
+INV0025,Male,51,Single,Self-Employed,300000,Ahmedabad,Gujarat,Conservative,House Purchase,23,Mass
+INV0026,Male,33,Married,Government Employee,1200000,Chennai,Tamil Nadu,Aggressive,Wealth Creation,23,Affluent
+INV0027,Female,43,Single,Government Employee,300000,Bengaluru,Karnataka,Conservative,Child Education,20,Mass
+INV0028,Male,25,Married,Professional,1200000,Pune,Maharashtra,Moderate,House Purchase,21,Affluent
+INV0029,Female,30,Single,Salaried,2000000,Ahmedabad,Gujarat,Moderate,House Purchase,6,HNI
+INV0030,Female,33,Married,Self-Employed,450000,Pune,Maharashtra,Conservative,Wealth Creation,11,Mass
+INV0031,Male,60,Married,Business,800000,Delhi,Delhi,Conservative,House Purchase,19,Affluent
+INV0032,Male,58,Married,Self-Employed,2000000,Solapur,Maharashtra,Moderate,Child Education,10,HNI
+INV0033,Female,39,Single,Self-Employed,1500000,Kolkata,West Bengal,Conservative,House Purchase,21,HNI
+INV0034,Male,49,Single,Professional,300000,Mumbai,Maharashtra,Moderate,House Purchase,23,Mass
+INV0035,Female,47,Single,Salaried,1000000,Delhi,Delhi,Aggressive,Wealth Creation,5,Affluent
+INV0036,Female,50,Single,Professional,600000,Mumbai,Maharashtra,Aggressive,Retirement,12,Mass
+INV0037,Female,49,Single,Government Employee,300000,Bengaluru,Karnataka,Conservative,House Purchase,15,Mass
+INV0038,Female,34,Single,Salaried,300000,Solapur,Maharashtra,Aggressive,Child Education,7,Mass
+INV0039,Female,36,Single,Government Employee,300000,Kolkata,West Bengal,Conservative,House Purchase,8,Mass
+INV0040,Male,47,Married,Government Employee,800000,Delhi,Delhi,Conservative,House Purchase,22,Affluent
+INV0041,Male,31,Single,Professional,300000,Solapur,Maharashtra,Conservative,Wealth Creation,18,Mass
+INV0042,Male,32,Single,Government Employee,600000,Hyderabad,Telangana,Conservative,Child Education,11,Mass
+INV0043,Female,60,Married,Salaried,1500000,Mumbai,Maharashtra,Moderate,House Purchase,21,HNI
+INV0044,Female,51,Married,Professional,450000,Pune,Maharashtra,Aggressive,Child Education,21,Mass
+INV0045,Male,27,Single,Government Employee,1500000,Delhi,Delhi,Moderate,Retirement,6,HNI
+INV0046,Male,47,Married,Business,300000,Mumbai,Maharashtra,Aggressive,House Purchase,25,Mass
+INV0047,Female,37,Single,Government Employee,1000000,Pune,Maharashtra,Conservative,Child Education,21,Affluent
+INV0048,Female,60,Married,Self-Employed,600000,Pune,Maharashtra,Moderate,Wealth Creation,14,Mass
+INV0049,Female,27,Married,Business,600000,Solapur,Maharashtra,Aggressive,Wealth Creation,17,Mass
+INV0050,Female,45,Single,Business,1000000,Mumbai,Maharashtra,Conservative,Retirement,7,Affluent
+INV0051,Female,44,Married,Self-Employed,1000000,Delhi,Delhi,Moderate,House Purchase,5,Affluent
+INV0052,Male,37,Married,Professional,600000,Kolkata,West Bengal,Conservative,Child Education,13,Mass
+INV0053,Female,55,Married,Business,1000000,Ahmedabad,Gujarat,Aggressive,House Purchase,10,Affluent
+INV0054,Male,35,Married,Government Employee,1200000,Hyderabad,Telangana,Aggressive,Child Education,10,Affluent
+INV0055,Female,49,Single,Business,1000000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,17,Affluent
+INV0056,Female,40,Married,Salaried,1000000,Mumbai,Maharashtra,Aggressive,Child Education,19,Affluent
+INV0057,Female,23,Single,Government Employee,800000,Hyderabad,Telangana,Conservative,House Purchase,21,Affluent
+INV0058,Male,22,Married,Self-Employed,800000,Ahmedabad,Gujarat,Moderate,Child Education,5,Affluent
+INV0059,Female,29,Married,Government Employee,800000,Solapur,Maharashtra,Moderate,Wealth Creation,22,Affluent
+INV0060,Female,57,Single,Professional,2000000,Pune,Maharashtra,Moderate,Retirement,21,HNI
+INV0061,Male,35,Married,Business,450000,Ahmedabad,Gujarat,Conservative,Child Education,6,Mass
+INV0062,Female,27,Married,Self-Employed,1200000,Solapur,Maharashtra,Aggressive,Child Education,25,Affluent
+INV0063,Female,59,Single,Salaried,600000,Kolkata,West Bengal,Conservative,Retirement,5,Mass
+INV0064,Female,53,Married,Business,2000000,Kolkata,West Bengal,Conservative,Wealth Creation,11,HNI
+INV0065,Male,34,Married,Self-Employed,300000,Nagpur,Maharashtra,Conservative,Child Education,17,Mass
+INV0066,Male,33,Single,Business,1000000,Delhi,Delhi,Aggressive,House Purchase,13,Affluent
+INV0067,Female,60,Single,Self-Employed,1000000,Pune,Maharashtra,Conservative,Retirement,23,Affluent
+INV0068,Male,29,Single,Salaried,450000,Nagpur,Maharashtra,Moderate,Retirement,15,Mass
+INV0069,Female,48,Married,Salaried,600000,Kolkata,West Bengal,Conservative,Child Education,5,Mass
+INV0070,Male,32,Single,Salaried,1500000,Chennai,Tamil Nadu,Conservative,Retirement,7,HNI
+INV0071,Female,44,Single,Professional,300000,Delhi,Delhi,Aggressive,Retirement,5,Mass
+INV0072,Male,53,Married,Business,1200000,Delhi,Delhi,Aggressive,Wealth Creation,24,Affluent
+INV0073,Female,55,Married,Salaried,300000,Pune,Maharashtra,Aggressive,Wealth Creation,21,Mass
+INV0074,Male,29,Married,Professional,2000000,Delhi,Delhi,Aggressive,Wealth Creation,14,HNI
+INV0075,Female,42,Single,Business,1000000,Solapur,Maharashtra,Moderate,Child Education,18,Affluent
+INV0076,Female,26,Married,Business,2000000,Delhi,Delhi,Aggressive,Wealth Creation,15,HNI
+INV0077,Female,57,Single,Self-Employed,300000,Kolkata,West Bengal,Aggressive,Wealth Creation,12,Mass
+INV0078,Female,25,Married,Business,1500000,Delhi,Delhi,Moderate,Child Education,17,HNI
+INV0079,Female,30,Married,Professional,300000,Hyderabad,Telangana,Moderate,House Purchase,10,Mass
+INV0080,Female,38,Married,Self-Employed,1500000,Solapur,Maharashtra,Conservative,Child Education,12,HNI
+INV0081,Male,26,Married,Self-Employed,600000,Pune,Maharashtra,Conservative,House Purchase,23,Mass
+INV0082,Male,34,Single,Self-Employed,1500000,Pune,Maharashtra,Moderate,Retirement,7,HNI
+INV0083,Male,56,Married,Government Employee,800000,Kolkata,West Bengal,Moderate,Child Education,9,Affluent
+INV0084,Male,30,Single,Salaried,1000000,Ahmedabad,Gujarat,Moderate,House Purchase,15,Affluent
+INV0085,Male,49,Single,Business,1200000,Ahmedabad,Gujarat,Aggressive,Retirement,20,Affluent
+INV0086,Female,56,Single,Professional,600000,Hyderabad,Telangana,Aggressive,Child Education,6,Mass
+INV0087,Male,58,Married,Professional,800000,Delhi,Delhi,Conservative,Retirement,25,Affluent
+INV0088,Male,47,Married,Professional,1200000,Pune,Maharashtra,Aggressive,Child Education,17,Affluent
+INV0089,Male,22,Single,Self-Employed,600000,Kolkata,West Bengal,Moderate,Child Education,9,Mass
+INV0090,Female,52,Single,Business,300000,Chennai,Tamil Nadu,Aggressive,Wealth Creation,19,Mass
+INV0091,Male,24,Single,Business,1000000,Chennai,Tamil Nadu,Conservative,Retirement,18,Affluent
+INV0092,Male,54,Single,Business,600000,Hyderabad,Telangana,Moderate,House Purchase,5,Mass
+INV0093,Female,42,Married,Salaried,300000,Hyderabad,Telangana,Moderate,Child Education,12,Mass
+INV0094,Male,36,Single,Government Employee,1500000,Chennai,Tamil Nadu,Aggressive,House Purchase,23,HNI
+INV0095,Male,40,Married,Salaried,1500000,Ahmedabad,Gujarat,Moderate,Child Education,18,HNI
+INV0096,Male,51,Married,Professional,800000,Solapur,Maharashtra,Conservative,Wealth Creation,20,Affluent
+INV0097,Female,42,Married,Salaried,450000,Solapur,Maharashtra,Aggressive,Wealth Creation,16,Mass
+INV0098,Female,24,Single,Business,1000000,Chennai,Tamil Nadu,Moderate,House Purchase,22,Affluent
+INV0099,Male,34,Married,Professional,1000000,Nagpur,Maharashtra,Aggressive,Retirement,21,Affluent
+INV0100,Female,25,Married,Self-Employed,2000000,Bengaluru,Karnataka,Moderate,Child Education,18,HNI
+INV0101,Female,38,Single,Business,1000000,Delhi,Delhi,Aggressive,Wealth Creation,19,Affluent
+INV0102,Female,50,Married,Salaried,1500000,Mumbai,Maharashtra,Aggressive,Retirement,11,HNI
+INV0103,Female,35,Single,Professional,2000000,Bengaluru,Karnataka,Conservative,Retirement,21,HNI
+INV0104,Female,28,Married,Self-Employed,300000,Mumbai,Maharashtra,Aggressive,Child Education,14,Mass
+INV0105,Male,53,Married,Business,2000000,Pune,Maharashtra,Aggressive,Child Education,23,HNI
+INV0106,Female,51,Married,Salaried,600000,Chennai,Tamil Nadu,Moderate,House Purchase,11,Mass
+INV0107,Male,53,Single,Professional,450000,Hyderabad,Telangana,Conservative,House Purchase,17,Mass
+INV0108,Male,36,Single,Business,300000,Nagpur,Maharashtra,Conservative,Retirement,15,Mass
+INV0109,Male,43,Married,Professional,450000,Kolkata,West Bengal,Aggressive,Child Education,6,Mass
+INV0110,Female,53,Single,Salaried,1200000,Hyderabad,Telangana,Moderate,Child Education,17,Affluent
+INV0111,Male,51,Single,Salaried,800000,Delhi,Delhi,Moderate,Child Education,5,Affluent
+INV0112,Male,45,Single,Self-Employed,1000000,Pune,Maharashtra,Aggressive,Child Education,19,Affluent
+INV0113,Male,47,Single,Salaried,1200000,Nagpur,Maharashtra,Conservative,Retirement,12,Affluent
+INV0114,Male,23,Married,Salaried,2000000,Kolkata,West Bengal,Moderate,Wealth Creation,7,HNI
+INV0115,Female,39,Married,Self-Employed,300000,Kolkata,West Bengal,Conservative,Retirement,16,Mass
+INV0116,Male,36,Married,Self-Employed,300000,Hyderabad,Telangana,Conservative,Child Education,16,Mass
+INV0117,Male,52,Married,Self-Employed,800000,Mumbai,Maharashtra,Moderate,Child Education,5,Affluent
+INV0118,Male,59,Single,Self-Employed,300000,Kolkata,West Bengal,Aggressive,Child Education,14,Mass
+INV0119,Female,48,Single,Professional,1000000,Delhi,Delhi,Conservative,Wealth Creation,10,Affluent
+INV0120,Female,48,Single,Professional,800000,Delhi,Delhi,Moderate,House Purchase,16,Affluent
+INV0121,Female,36,Single,Professional,1500000,Chennai,Tamil Nadu,Aggressive,House Purchase,11,HNI
+INV0122,Female,55,Married,Professional,600000,Chennai,Tamil Nadu,Aggressive,Wealth Creation,7,Mass
+INV0123,Female,39,Married,Salaried,2000000,Kolkata,West Bengal,Aggressive,Child Education,7,HNI
+INV0124,Male,42,Single,Self-Employed,600000,Nagpur,Maharashtra,Aggressive,Child Education,10,Mass
+INV0125,Female,59,Married,Self-Employed,600000,Pune,Maharashtra,Moderate,Retirement,12,Mass
+INV0126,Female,35,Married,Salaried,1500000,Solapur,Maharashtra,Conservative,House Purchase,14,HNI
+INV0127,Female,50,Married,Salaried,600000,Delhi,Delhi,Aggressive,House Purchase,24,Mass
+INV0128,Male,23,Married,Professional,450000,Chennai,Tamil Nadu,Conservative,House Purchase,13,Mass
+INV0129,Female,42,Single,Salaried,800000,Nagpur,Maharashtra,Moderate,House Purchase,14,Affluent
+INV0130,Female,46,Single,Salaried,300000,Bengaluru,Karnataka,Aggressive,House Purchase,12,Mass
+INV0131,Female,29,Single,Salaried,450000,Pune,Maharashtra,Aggressive,Wealth Creation,20,Mass
+INV0132,Female,55,Married,Government Employee,450000,Bengaluru,Karnataka,Aggressive,Wealth Creation,12,Mass
+INV0133,Male,43,Single,Self-Employed,800000,Bengaluru,Karnataka,Conservative,Wealth Creation,14,Affluent
+INV0134,Female,57,Single,Self-Employed,800000,Mumbai,Maharashtra,Aggressive,Child Education,25,Affluent
+INV0135,Male,37,Married,Government Employee,300000,Solapur,Maharashtra,Conservative,Retirement,12,Mass
+INV0136,Male,54,Single,Business,1500000,Ahmedabad,Gujarat,Moderate,Child Education,14,HNI
+INV0137,Female,41,Single,Professional,800000,Delhi,Delhi,Moderate,Wealth Creation,20,Affluent
+INV0138,Male,23,Married,Self-Employed,300000,Bengaluru,Karnataka,Conservative,Retirement,25,Mass
+INV0139,Female,56,Married,Self-Employed,1000000,Nagpur,Maharashtra,Moderate,Wealth Creation,13,Affluent
+INV0140,Female,32,Single,Salaried,1200000,Bengaluru,Karnataka,Moderate,Child Education,8,Affluent
+INV0141,Female,29,Married,Professional,1200000,Delhi,Delhi,Moderate,Child Education,20,Affluent
+INV0142,Male,53,Married,Professional,1500000,Ahmedabad,Gujarat,Aggressive,House Purchase,20,HNI
+INV0143,Male,24,Married,Business,800000,Bengaluru,Karnataka,Moderate,House Purchase,13,Affluent
+INV0144,Male,59,Single,Professional,600000,Chennai,Tamil Nadu,Aggressive,House Purchase,14,Mass
+INV0145,Male,60,Single,Government Employee,1000000,Mumbai,Maharashtra,Conservative,Wealth Creation,24,Affluent
+INV0146,Female,54,Married,Government Employee,1000000,Pune,Maharashtra,Conservative,Retirement,6,Affluent
+INV0147,Female,39,Single,Government Employee,800000,Mumbai,Maharashtra,Conservative,Wealth Creation,13,Affluent
+INV0148,Male,27,Single,Self-Employed,1200000,Pune,Maharashtra,Moderate,Child Education,24,Affluent
+INV0149,Female,29,Single,Professional,2000000,Nagpur,Maharashtra,Moderate,Wealth Creation,6,HNI
+INV0150,Male,43,Married,Government Employee,800000,Pune,Maharashtra,Aggressive,Wealth Creation,19,Affluent
+INV0151,Male,39,Married,Government Employee,450000,Solapur,Maharashtra,Conservative,Child Education,23,Mass
+INV0152,Female,26,Single,Government Employee,600000,Hyderabad,Telangana,Moderate,Wealth Creation,15,Mass
+INV0153,Male,27,Married,Government Employee,2000000,Pune,Maharashtra,Conservative,Child Education,10,HNI
+INV0154,Male,42,Single,Business,1500000,Mumbai,Maharashtra,Moderate,Wealth Creation,23,HNI
+INV0155,Female,58,Married,Salaried,300000,Delhi,Delhi,Conservative,Wealth Creation,12,Mass
+INV0156,Male,34,Married,Salaried,1200000,Chennai,Tamil Nadu,Aggressive,Wealth Creation,8,Affluent
+INV0157,Male,31,Single,Salaried,2000000,Solapur,Maharashtra,Moderate,Wealth Creation,20,HNI
+INV0158,Female,59,Single,Salaried,800000,Mumbai,Maharashtra,Moderate,Wealth Creation,14,Affluent
+INV0159,Male,52,Single,Self-Employed,600000,Solapur,Maharashtra,Conservative,Retirement,18,Mass
+INV0160,Female,37,Single,Business,800000,Solapur,Maharashtra,Aggressive,House Purchase,25,Affluent
+INV0161,Female,23,Single,Government Employee,800000,Chennai,Tamil Nadu,Aggressive,Wealth Creation,14,Affluent
+INV0162,Female,29,Married,Government Employee,1000000,Ahmedabad,Gujarat,Conservative,House Purchase,17,Affluent
+INV0163,Female,44,Single,Professional,600000,Mumbai,Maharashtra,Conservative,Child Education,25,Mass
+INV0164,Female,23,Married,Self-Employed,1000000,Delhi,Delhi,Moderate,House Purchase,7,Affluent
+INV0165,Male,37,Married,Professional,1500000,Solapur,Maharashtra,Aggressive,Wealth Creation,13,HNI
+INV0166,Male,37,Married,Government Employee,1200000,Delhi,Delhi,Moderate,Wealth Creation,12,Affluent
+INV0167,Male,58,Single,Government Employee,1000000,Solapur,Maharashtra,Aggressive,Child Education,6,Affluent
+INV0168,Female,48,Married,Salaried,300000,Kolkata,West Bengal,Conservative,House Purchase,14,Mass
+INV0169,Female,35,Married,Business,800000,Ahmedabad,Gujarat,Moderate,House Purchase,10,Affluent
+INV0170,Female,46,Single,Salaried,1500000,Solapur,Maharashtra,Moderate,Wealth Creation,19,HNI
+INV0171,Male,56,Married,Business,800000,Chennai,Tamil Nadu,Moderate,Retirement,12,Affluent
+INV0172,Male,44,Single,Government Employee,1200000,Pune,Maharashtra,Moderate,Retirement,6,Affluent
+INV0173,Female,44,Single,Business,450000,Delhi,Delhi,Conservative,Wealth Creation,15,Mass
+INV0174,Male,29,Single,Salaried,2000000,Ahmedabad,Gujarat,Moderate,House Purchase,15,HNI
+INV0175,Male,42,Single,Salaried,2000000,Delhi,Delhi,Conservative,Retirement,17,HNI
+INV0176,Male,27,Single,Business,1200000,Bengaluru,Karnataka,Aggressive,Retirement,5,Affluent
+INV0177,Male,29,Married,Government Employee,800000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,14,Affluent
+INV0178,Male,35,Married,Self-Employed,2000000,Kolkata,West Bengal,Conservative,House Purchase,16,HNI
+INV0179,Male,39,Single,Professional,1500000,Delhi,Delhi,Conservative,Retirement,9,HNI
+INV0180,Male,44,Married,Self-Employed,2000000,Pune,Maharashtra,Moderate,Wealth Creation,21,HNI
+INV0181,Male,55,Married,Government Employee,800000,Chennai,Tamil Nadu,Moderate,Retirement,12,Affluent
+INV0182,Female,45,Single,Salaried,1500000,Delhi,Delhi,Moderate,Wealth Creation,16,HNI
+INV0183,Male,23,Single,Self-Employed,1200000,Nagpur,Maharashtra,Conservative,Retirement,19,Affluent
+INV0184,Male,24,Single,Government Employee,2000000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,6,HNI
+INV0185,Male,31,Single,Self-Employed,2000000,Chennai,Tamil Nadu,Moderate,Wealth Creation,21,HNI
+INV0186,Male,60,Single,Government Employee,450000,Ahmedabad,Gujarat,Moderate,Retirement,20,Mass
+INV0187,Female,36,Single,Salaried,1200000,Nagpur,Maharashtra,Moderate,Retirement,9,Affluent
+INV0188,Female,26,Single,Self-Employed,1500000,Chennai,Tamil Nadu,Conservative,House Purchase,20,HNI
+INV0189,Male,23,Single,Government Employee,1500000,Solapur,Maharashtra,Aggressive,Child Education,12,HNI
+INV0190,Female,44,Single,Self-Employed,300000,Delhi,Delhi,Moderate,Retirement,18,Mass
+INV0191,Female,32,Married,Government Employee,2000000,Ahmedabad,Gujarat,Conservative,Retirement,8,HNI
+INV0192,Female,24,Single,Business,1000000,Delhi,Delhi,Aggressive,Retirement,6,Affluent
+INV0193,Female,38,Single,Self-Employed,1500000,Chennai,Tamil Nadu,Conservative,Wealth Creation,16,HNI
+INV0194,Male,24,Married,Government Employee,1200000,Bengaluru,Karnataka,Moderate,House Purchase,18,Affluent
+INV0195,Male,53,Married,Professional,300000,Bengaluru,Karnataka,Conservative,Wealth Creation,20,Mass
+INV0196,Male,29,Married,Salaried,450000,Pune,Maharashtra,Aggressive,Retirement,13,Mass
+INV0197,Female,34,Married,Salaried,450000,Chennai,Tamil Nadu,Conservative,Wealth Creation,6,Mass
+INV0198,Female,46,Single,Government Employee,450000,Nagpur,Maharashtra,Conservative,Wealth Creation,8,Mass
+INV0199,Male,57,Married,Self-Employed,1000000,Chennai,Tamil Nadu,Moderate,Wealth Creation,23,Affluent
+INV0200,Male,54,Married,Self-Employed,2000000,Kolkata,West Bengal,Aggressive,Child Education,11,HNI
+INV0201,Male,35,Single,Salaried,800000,Kolkata,West Bengal,Aggressive,Child Education,18,Affluent
+INV0202,Female,38,Married,Salaried,1000000,Hyderabad,Telangana,Aggressive,Wealth Creation,20,Affluent
+INV0203,Female,24,Single,Professional,1500000,Solapur,Maharashtra,Aggressive,Retirement,20,HNI
+INV0204,Female,36,Married,Self-Employed,1000000,Hyderabad,Telangana,Moderate,House Purchase,10,Affluent
+INV0205,Female,33,Married,Professional,800000,Solapur,Maharashtra,Conservative,House Purchase,17,Affluent
+INV0206,Female,47,Married,Professional,450000,Bengaluru,Karnataka,Conservative,House Purchase,7,Mass
+INV0207,Male,51,Married,Professional,600000,Chennai,Tamil Nadu,Aggressive,Wealth Creation,22,Mass
+INV0208,Male,25,Married,Professional,2000000,Nagpur,Maharashtra,Conservative,Wealth Creation,17,HNI
+INV0209,Male,38,Married,Self-Employed,1200000,Kolkata,West Bengal,Conservative,Wealth Creation,10,Affluent
+INV0210,Male,40,Single,Professional,300000,Chennai,Tamil Nadu,Moderate,Wealth Creation,10,Mass
+INV0211,Male,55,Married,Salaried,450000,Nagpur,Maharashtra,Moderate,Child Education,5,Mass
+INV0212,Female,40,Single,Professional,2000000,Ahmedabad,Gujarat,Moderate,Child Education,22,HNI
+INV0213,Male,52,Married,Government Employee,1500000,Hyderabad,Telangana,Aggressive,Child Education,11,HNI
+INV0214,Female,55,Married,Government Employee,300000,Bengaluru,Karnataka,Moderate,House Purchase,15,Mass
+INV0215,Male,42,Single,Business,600000,Ahmedabad,Gujarat,Moderate,House Purchase,15,Mass
+INV0216,Female,46,Single,Self-Employed,1500000,Pune,Maharashtra,Moderate,Child Education,21,HNI
+INV0217,Male,47,Married,Business,450000,Kolkata,West Bengal,Conservative,Wealth Creation,18,Mass
+INV0218,Female,52,Married,Government Employee,1000000,Chennai,Tamil Nadu,Moderate,Retirement,16,Affluent
+INV0219,Female,34,Single,Government Employee,800000,Delhi,Delhi,Conservative,Retirement,14,Affluent
+INV0220,Female,38,Married,Salaried,800000,Delhi,Delhi,Conservative,House Purchase,11,Affluent
+INV0221,Male,54,Married,Self-Employed,600000,Mumbai,Maharashtra,Moderate,Child Education,9,Mass
+INV0222,Female,54,Married,Business,600000,Hyderabad,Telangana,Moderate,House Purchase,10,Mass
+INV0223,Female,43,Single,Salaried,450000,Ahmedabad,Gujarat,Conservative,Child Education,13,Mass
+INV0224,Male,57,Single,Professional,2000000,Mumbai,Maharashtra,Moderate,Retirement,21,HNI
+INV0225,Male,25,Single,Business,1000000,Chennai,Tamil Nadu,Moderate,Retirement,17,Affluent
+INV0226,Female,40,Single,Business,800000,Hyderabad,Telangana,Moderate,House Purchase,13,Affluent
+INV0227,Female,55,Single,Government Employee,600000,Nagpur,Maharashtra,Aggressive,Child Education,17,Mass
+INV0228,Male,39,Married,Self-Employed,300000,Pune,Maharashtra,Moderate,Retirement,21,Mass
+INV0229,Male,47,Single,Self-Employed,600000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,10,Mass
+INV0230,Male,46,Married,Government Employee,300000,Delhi,Delhi,Aggressive,Child Education,13,Mass
+INV0231,Male,44,Single,Salaried,300000,Nagpur,Maharashtra,Conservative,Wealth Creation,8,Mass
+INV0232,Male,42,Married,Professional,600000,Bengaluru,Karnataka,Moderate,House Purchase,15,Mass
+INV0233,Male,56,Married,Business,800000,Bengaluru,Karnataka,Moderate,Child Education,10,Affluent
+INV0234,Male,31,Single,Professional,300000,Ahmedabad,Gujarat,Conservative,Wealth Creation,6,Mass
+INV0235,Male,45,Single,Self-Employed,450000,Hyderabad,Telangana,Moderate,House Purchase,8,Mass
+INV0236,Female,48,Single,Professional,450000,Mumbai,Maharashtra,Conservative,Child Education,25,Mass
+INV0237,Female,24,Married,Government Employee,1200000,Nagpur,Maharashtra,Conservative,House Purchase,17,Affluent
+INV0238,Female,25,Single,Professional,600000,Mumbai,Maharashtra,Aggressive,Wealth Creation,20,Mass
+INV0239,Female,28,Single,Salaried,2000000,Solapur,Maharashtra,Aggressive,Child Education,20,HNI
+INV0240,Female,24,Married,Business,300000,Delhi,Delhi,Moderate,Wealth Creation,9,Mass
+INV0241,Male,44,Married,Business,800000,Nagpur,Maharashtra,Aggressive,House Purchase,19,Affluent
+INV0242,Male,51,Single,Business,1500000,Solapur,Maharashtra,Moderate,Child Education,12,HNI
+INV0243,Male,22,Single,Government Employee,300000,Mumbai,Maharashtra,Aggressive,Retirement,16,Mass
+INV0244,Male,36,Single,Salaried,2000000,Pune,Maharashtra,Aggressive,Child Education,18,HNI
+INV0245,Female,32,Married,Self-Employed,450000,Bengaluru,Karnataka,Aggressive,Child Education,14,Mass
+INV0246,Female,44,Single,Government Employee,800000,Nagpur,Maharashtra,Moderate,House Purchase,23,Affluent
+INV0247,Male,51,Single,Business,300000,Hyderabad,Telangana,Conservative,Retirement,11,Mass
+INV0248,Male,27,Married,Salaried,1000000,Solapur,Maharashtra,Aggressive,House Purchase,16,Affluent
+INV0249,Female,35,Single,Salaried,2000000,Mumbai,Maharashtra,Aggressive,Wealth Creation,9,HNI
+INV0250,Male,30,Single,Government Employee,800000,Solapur,Maharashtra,Aggressive,House Purchase,21,Affluent
+INV0251,Male,34,Single,Business,800000,Hyderabad,Telangana,Conservative,House Purchase,13,Affluent
+INV0252,Female,38,Single,Business,600000,Hyderabad,Telangana,Moderate,House Purchase,7,Mass
+INV0253,Female,58,Single,Salaried,600000,Hyderabad,Telangana,Aggressive,House Purchase,18,Mass
+INV0254,Male,43,Single,Professional,1000000,Mumbai,Maharashtra,Conservative,House Purchase,13,Affluent
+INV0255,Male,25,Married,Professional,600000,Hyderabad,Telangana,Conservative,House Purchase,25,Mass
+INV0256,Female,33,Single,Business,1200000,Kolkata,West Bengal,Conservative,Retirement,11,Affluent
+INV0257,Female,42,Single,Government Employee,1500000,Kolkata,West Bengal,Moderate,Child Education,15,HNI
+INV0258,Male,29,Single,Self-Employed,300000,Nagpur,Maharashtra,Conservative,House Purchase,11,Mass
+INV0259,Female,53,Married,Professional,300000,Bengaluru,Karnataka,Moderate,House Purchase,11,Mass
+INV0260,Male,38,Married,Business,2000000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,24,HNI
+INV0261,Female,49,Married,Business,600000,Mumbai,Maharashtra,Conservative,House Purchase,12,Mass
+INV0262,Male,48,Single,Professional,600000,Mumbai,Maharashtra,Conservative,Wealth Creation,11,Mass
+INV0263,Male,31,Single,Professional,1200000,Hyderabad,Telangana,Aggressive,House Purchase,9,Affluent
+INV0264,Female,53,Single,Government Employee,800000,Chennai,Tamil Nadu,Aggressive,Retirement,17,Affluent
+INV0265,Female,23,Married,Professional,300000,Mumbai,Maharashtra,Moderate,Retirement,10,Mass
+INV0266,Male,31,Married,Government Employee,1000000,Hyderabad,Telangana,Moderate,Wealth Creation,9,Affluent
+INV0267,Female,34,Single,Government Employee,2000000,Chennai,Tamil Nadu,Conservative,Retirement,25,HNI
+INV0268,Female,31,Single,Professional,800000,Delhi,Delhi,Moderate,Wealth Creation,11,Affluent
+INV0269,Female,38,Single,Self-Employed,2000000,Solapur,Maharashtra,Moderate,Wealth Creation,15,HNI
+INV0270,Female,36,Single,Business,2000000,Nagpur,Maharashtra,Moderate,Retirement,14,HNI
+INV0271,Male,49,Married,Government Employee,800000,Bengaluru,Karnataka,Aggressive,House Purchase,6,Affluent
+INV0272,Female,29,Married,Government Employee,2000000,Delhi,Delhi,Aggressive,Child Education,19,HNI
+INV0273,Male,58,Married,Business,1200000,Solapur,Maharashtra,Conservative,Retirement,23,Affluent
+INV0274,Male,26,Married,Salaried,1200000,Bengaluru,Karnataka,Aggressive,Retirement,23,Affluent
+INV0275,Female,36,Single,Self-Employed,300000,Nagpur,Maharashtra,Aggressive,House Purchase,20,Mass
+INV0276,Female,28,Married,Government Employee,1500000,Kolkata,West Bengal,Moderate,Retirement,25,HNI
+INV0277,Female,59,Single,Business,1500000,Chennai,Tamil Nadu,Moderate,Retirement,14,HNI
+INV0278,Female,53,Married,Self-Employed,1500000,Hyderabad,Telangana,Aggressive,House Purchase,12,HNI
+INV0279,Male,55,Married,Government Employee,450000,Chennai,Tamil Nadu,Aggressive,Child Education,11,Mass
+INV0280,Male,51,Single,Salaried,450000,Hyderabad,Telangana,Conservative,Retirement,20,Mass
+INV0281,Female,34,Single,Business,1500000,Bengaluru,Karnataka,Moderate,Wealth Creation,18,HNI
+INV0282,Male,41,Single,Professional,1500000,Nagpur,Maharashtra,Conservative,House Purchase,23,HNI
+INV0283,Male,34,Single,Self-Employed,800000,Nagpur,Maharashtra,Conservative,Wealth Creation,20,Affluent
+INV0284,Male,27,Married,Business,800000,Solapur,Maharashtra,Aggressive,Child Education,13,Affluent
+INV0285,Male,43,Single,Business,450000,Hyderabad,Telangana,Aggressive,Retirement,5,Mass
+INV0286,Male,47,Single,Salaried,2000000,Delhi,Delhi,Moderate,House Purchase,12,HNI
+INV0287,Female,45,Single,Professional,1200000,Kolkata,West Bengal,Aggressive,Retirement,10,Affluent
+INV0288,Female,29,Single,Self-Employed,450000,Ahmedabad,Gujarat,Moderate,Child Education,9,Mass
+INV0289,Male,44,Single,Government Employee,1500000,Mumbai,Maharashtra,Conservative,Wealth Creation,9,HNI
+INV0290,Female,34,Married,Salaried,2000000,Chennai,Tamil Nadu,Conservative,House Purchase,12,HNI
+INV0291,Male,57,Single,Business,800000,Mumbai,Maharashtra,Moderate,House Purchase,22,Affluent
+INV0292,Female,56,Married,Government Employee,800000,Delhi,Delhi,Moderate,Child Education,9,Affluent
+INV0293,Male,41,Single,Government Employee,450000,Mumbai,Maharashtra,Moderate,Child Education,18,Mass
+INV0294,Male,27,Married,Self-Employed,1000000,Ahmedabad,Gujarat,Moderate,Wealth Creation,17,Affluent
+INV0295,Female,53,Married,Salaried,450000,Delhi,Delhi,Aggressive,House Purchase,13,Mass
+INV0296,Male,58,Married,Salaried,600000,Ahmedabad,Gujarat,Conservative,Retirement,18,Mass
+INV0297,Female,51,Married,Professional,1500000,Solapur,Maharashtra,Conservative,Child Education,15,HNI
+INV0298,Male,51,Married,Self-Employed,1000000,Hyderabad,Telangana,Moderate,House Purchase,9,Affluent
+INV0299,Male,39,Married,Self-Employed,300000,Hyderabad,Telangana,Aggressive,Wealth Creation,23,Mass
+INV0300,Female,52,Single,Self-Employed,800000,Kolkata,West Bengal,Aggressive,House Purchase,6,Affluent
+INV0301,Male,57,Single,Self-Employed,450000,Delhi,Delhi,Moderate,House Purchase,5,Mass
+INV0302,Male,58,Single,Self-Employed,450000,Bengaluru,Karnataka,Moderate,Wealth Creation,7,Mass
+INV0303,Male,27,Single,Self-Employed,800000,Chennai,Tamil Nadu,Moderate,House Purchase,24,Affluent
+INV0304,Male,25,Single,Government Employee,600000,Solapur,Maharashtra,Aggressive,Wealth Creation,23,Mass
+INV0305,Female,45,Married,Business,1000000,Ahmedabad,Gujarat,Aggressive,House Purchase,25,Affluent
+INV0306,Male,53,Married,Self-Employed,1500000,Mumbai,Maharashtra,Conservative,Child Education,5,HNI
+INV0307,Female,35,Single,Self-Employed,1200000,Mumbai,Maharashtra,Conservative,Retirement,6,Affluent
+INV0308,Female,43,Single,Salaried,1500000,Chennai,Tamil Nadu,Moderate,Wealth Creation,6,HNI
+INV0309,Male,27,Married,Salaried,450000,Hyderabad,Telangana,Conservative,Wealth Creation,13,Mass
+INV0310,Female,24,Married,Salaried,1200000,Pune,Maharashtra,Aggressive,House Purchase,23,Affluent
+INV0311,Female,38,Single,Business,300000,Hyderabad,Telangana,Moderate,House Purchase,14,Mass
+INV0312,Male,59,Married,Professional,450000,Pune,Maharashtra,Conservative,House Purchase,13,Mass
+INV0313,Female,28,Married,Salaried,450000,Delhi,Delhi,Conservative,Wealth Creation,10,Mass
+INV0314,Male,44,Married,Professional,2000000,Nagpur,Maharashtra,Moderate,House Purchase,10,HNI
+INV0315,Female,23,Single,Salaried,2000000,Ahmedabad,Gujarat,Moderate,House Purchase,22,HNI
+INV0316,Male,30,Single,Government Employee,1200000,Nagpur,Maharashtra,Aggressive,Retirement,25,Affluent
+INV0317,Male,50,Single,Salaried,300000,Nagpur,Maharashtra,Aggressive,House Purchase,9,Mass
+INV0318,Male,41,Married,Salaried,1000000,Delhi,Delhi,Moderate,Wealth Creation,6,Affluent
+INV0319,Female,36,Single,Self-Employed,450000,Chennai,Tamil Nadu,Conservative,Retirement,16,Mass
+INV0320,Female,48,Married,Self-Employed,450000,Delhi,Delhi,Aggressive,House Purchase,18,Mass
+INV0321,Female,37,Single,Self-Employed,1500000,Solapur,Maharashtra,Conservative,House Purchase,5,HNI
+INV0322,Male,31,Single,Self-Employed,800000,Chennai,Tamil Nadu,Conservative,Child Education,13,Affluent
+INV0323,Male,30,Single,Salaried,1200000,Kolkata,West Bengal,Moderate,Retirement,17,Affluent
+INV0324,Male,25,Married,Government Employee,1500000,Kolkata,West Bengal,Conservative,Child Education,20,HNI
+INV0325,Male,47,Single,Self-Employed,800000,Nagpur,Maharashtra,Moderate,Wealth Creation,24,Affluent
+INV0326,Male,32,Single,Professional,600000,Hyderabad,Telangana,Moderate,Retirement,10,Mass
+INV0327,Male,30,Single,Professional,1000000,Ahmedabad,Gujarat,Moderate,House Purchase,24,Affluent
+INV0328,Female,34,Single,Salaried,2000000,Mumbai,Maharashtra,Moderate,Retirement,14,HNI
+INV0329,Female,56,Married,Salaried,450000,Solapur,Maharashtra,Conservative,Child Education,11,Mass
+INV0330,Female,35,Single,Business,2000000,Pune,Maharashtra,Aggressive,Child Education,17,HNI
+INV0331,Male,57,Single,Professional,2000000,Bengaluru,Karnataka,Moderate,Wealth Creation,24,HNI
+INV0332,Female,60,Married,Professional,1500000,Bengaluru,Karnataka,Conservative,Child Education,9,HNI
+INV0333,Male,35,Married,Government Employee,450000,Bengaluru,Karnataka,Moderate,Child Education,24,Mass
+INV0334,Female,26,Married,Government Employee,300000,Chennai,Tamil Nadu,Moderate,Retirement,7,Mass
+INV0335,Female,51,Single,Government Employee,450000,Chennai,Tamil Nadu,Conservative,Retirement,7,Mass
+INV0336,Male,42,Married,Government Employee,2000000,Bengaluru,Karnataka,Moderate,House Purchase,21,HNI
+INV0337,Male,22,Single,Self-Employed,2000000,Kolkata,West Bengal,Aggressive,House Purchase,17,HNI
+INV0338,Female,46,Married,Self-Employed,2000000,Solapur,Maharashtra,Moderate,Retirement,8,HNI
+INV0339,Female,34,Single,Business,450000,Hyderabad,Telangana,Conservative,Retirement,22,Mass
+INV0340,Female,41,Married,Professional,300000,Kolkata,West Bengal,Moderate,Retirement,12,Mass
+INV0341,Male,52,Single,Salaried,1200000,Nagpur,Maharashtra,Conservative,Child Education,24,Affluent
+INV0342,Female,60,Single,Government Employee,800000,Mumbai,Maharashtra,Conservative,Retirement,17,Affluent
+INV0343,Female,26,Married,Government Employee,1000000,Chennai,Tamil Nadu,Aggressive,House Purchase,13,Affluent
+INV0344,Male,57,Married,Business,1200000,Bengaluru,Karnataka,Aggressive,Wealth Creation,16,Affluent
+INV0345,Female,38,Married,Self-Employed,1000000,Bengaluru,Karnataka,Moderate,Wealth Creation,14,Affluent
+INV0346,Female,56,Married,Business,300000,Hyderabad,Telangana,Conservative,House Purchase,23,Mass
+INV0347,Female,47,Single,Professional,450000,Kolkata,West Bengal,Conservative,Wealth Creation,17,Mass
+INV0348,Male,38,Single,Professional,600000,Delhi,Delhi,Aggressive,Retirement,22,Mass
+INV0349,Female,51,Single,Professional,2000000,Hyderabad,Telangana,Conservative,Child Education,20,HNI
+INV0350,Female,48,Married,Self-Employed,300000,Pune,Maharashtra,Conservative,Wealth Creation,19,Mass
+INV0351,Female,57,Single,Business,450000,Hyderabad,Telangana,Conservative,House Purchase,24,Mass
+INV0352,Male,49,Single,Business,450000,Delhi,Delhi,Aggressive,Retirement,18,Mass
+INV0353,Male,47,Single,Government Employee,300000,Bengaluru,Karnataka,Conservative,Child Education,18,Mass
+INV0354,Female,38,Married,Business,1000000,Chennai,Tamil Nadu,Conservative,Child Education,14,Affluent
+INV0355,Male,23,Married,Business,1200000,Delhi,Delhi,Conservative,House Purchase,8,Affluent
+INV0356,Male,31,Married,Self-Employed,1500000,Ahmedabad,Gujarat,Moderate,Wealth Creation,20,HNI
+INV0357,Female,45,Single,Professional,800000,Hyderabad,Telangana,Aggressive,Retirement,8,Affluent
+INV0358,Female,34,Single,Professional,1200000,Nagpur,Maharashtra,Aggressive,Child Education,19,Affluent
+INV0359,Female,56,Married,Government Employee,1000000,Pune,Maharashtra,Aggressive,House Purchase,11,Affluent
+INV0360,Female,36,Married,Salaried,1500000,Bengaluru,Karnataka,Aggressive,House Purchase,13,HNI
+INV0361,Male,33,Single,Government Employee,1000000,Bengaluru,Karnataka,Aggressive,Wealth Creation,15,Affluent
+INV0362,Female,24,Married,Professional,1200000,Kolkata,West Bengal,Moderate,Retirement,9,Affluent
+INV0363,Male,51,Single,Salaried,300000,Pune,Maharashtra,Conservative,Wealth Creation,21,Mass
+INV0364,Male,29,Married,Business,1200000,Hyderabad,Telangana,Aggressive,House Purchase,9,Affluent
+INV0365,Female,23,Married,Professional,800000,Solapur,Maharashtra,Moderate,Child Education,12,Affluent
+INV0366,Male,59,Single,Business,1000000,Hyderabad,Telangana,Aggressive,House Purchase,21,Affluent
+INV0367,Male,33,Married,Government Employee,300000,Solapur,Maharashtra,Moderate,Child Education,12,Mass
+INV0368,Female,45,Single,Self-Employed,1500000,Hyderabad,Telangana,Conservative,Retirement,9,HNI
+INV0369,Female,52,Single,Government Employee,1200000,Mumbai,Maharashtra,Aggressive,Retirement,12,Affluent
+INV0370,Male,48,Married,Government Employee,1000000,Kolkata,West Bengal,Moderate,Retirement,25,Affluent
+INV0371,Male,47,Single,Professional,450000,Pune,Maharashtra,Conservative,Retirement,18,Mass
+INV0372,Female,54,Married,Salaried,1000000,Pune,Maharashtra,Aggressive,Child Education,19,Affluent
+INV0373,Male,58,Single,Government Employee,1500000,Hyderabad,Telangana,Aggressive,House Purchase,14,HNI
+INV0374,Female,27,Married,Self-Employed,800000,Delhi,Delhi,Aggressive,Wealth Creation,10,Affluent
+INV0375,Female,49,Married,Professional,300000,Bengaluru,Karnataka,Moderate,Wealth Creation,8,Mass
+INV0376,Female,55,Single,Government Employee,1000000,Bengaluru,Karnataka,Aggressive,Retirement,17,Affluent
+INV0377,Female,26,Married,Professional,300000,Chennai,Tamil Nadu,Conservative,Retirement,17,Mass
+INV0378,Male,53,Married,Self-Employed,600000,Bengaluru,Karnataka,Moderate,House Purchase,7,Mass
+INV0379,Female,26,Single,Business,1200000,Solapur,Maharashtra,Moderate,House Purchase,19,Affluent
+INV0380,Female,34,Married,Self-Employed,1200000,Delhi,Delhi,Moderate,Retirement,22,Affluent
+INV0381,Male,34,Married,Professional,800000,Ahmedabad,Gujarat,Moderate,House Purchase,16,Affluent
+INV0382,Female,43,Married,Business,600000,Delhi,Delhi,Conservative,House Purchase,7,Mass
+INV0383,Male,42,Single,Salaried,800000,Nagpur,Maharashtra,Moderate,Wealth Creation,7,Affluent
+INV0384,Male,41,Single,Salaried,300000,Kolkata,West Bengal,Conservative,Wealth Creation,10,Mass
+INV0385,Male,45,Single,Government Employee,800000,Ahmedabad,Gujarat,Moderate,Retirement,20,Affluent
+INV0386,Female,29,Single,Business,300000,Solapur,Maharashtra,Moderate,House Purchase,15,Mass
+INV0387,Male,33,Single,Government Employee,1000000,Chennai,Tamil Nadu,Aggressive,Retirement,9,Affluent
+INV0388,Female,60,Single,Self-Employed,1200000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,20,Affluent
+INV0389,Female,54,Married,Government Employee,1200000,Hyderabad,Telangana,Aggressive,Retirement,23,Affluent
+INV0390,Female,49,Married,Professional,2000000,Mumbai,Maharashtra,Conservative,House Purchase,12,HNI
+INV0391,Female,39,Single,Professional,800000,Mumbai,Maharashtra,Moderate,House Purchase,8,Affluent
+INV0392,Male,32,Married,Salaried,800000,Hyderabad,Telangana,Moderate,Retirement,9,Affluent
+INV0393,Female,53,Single,Self-Employed,450000,Bengaluru,Karnataka,Aggressive,Child Education,8,Mass
+INV0394,Female,31,Married,Business,1500000,Hyderabad,Telangana,Conservative,Child Education,7,HNI
+INV0395,Female,33,Single,Government Employee,600000,Solapur,Maharashtra,Moderate,House Purchase,6,Mass
+INV0396,Female,40,Married,Salaried,1200000,Mumbai,Maharashtra,Conservative,House Purchase,6,Affluent
+INV0397,Male,47,Single,Professional,300000,Nagpur,Maharashtra,Moderate,Retirement,5,Mass
+INV0398,Male,24,Married,Professional,450000,Bengaluru,Karnataka,Aggressive,Retirement,5,Mass
+INV0399,Male,40,Single,Salaried,450000,Mumbai,Maharashtra,Aggressive,House Purchase,8,Mass
+INV0400,Male,46,Married,Business,1000000,Solapur,Maharashtra,Aggressive,Retirement,8,Affluent
+INV0401,Male,55,Single,Government Employee,600000,Nagpur,Maharashtra,Moderate,House Purchase,7,Mass
+INV0402,Male,26,Married,Government Employee,450000,Kolkata,West Bengal,Aggressive,Child Education,11,Mass
+INV0403,Female,30,Single,Professional,600000,Chennai,Tamil Nadu,Aggressive,Wealth Creation,25,Mass
+INV0404,Male,59,Single,Government Employee,800000,Bengaluru,Karnataka,Moderate,Child Education,20,Affluent
+INV0405,Male,45,Married,Professional,300000,Pune,Maharashtra,Conservative,House Purchase,20,Mass
+INV0406,Male,31,Married,Salaried,800000,Chennai,Tamil Nadu,Aggressive,House Purchase,21,Affluent
+INV0407,Male,35,Single,Self-Employed,1000000,Hyderabad,Telangana,Aggressive,House Purchase,10,Affluent
+INV0408,Male,25,Married,Government Employee,1500000,Hyderabad,Telangana,Aggressive,Child Education,19,HNI
+INV0409,Male,41,Married,Salaried,450000,Hyderabad,Telangana,Moderate,Wealth Creation,12,Mass
+INV0410,Female,43,Married,Business,1200000,Solapur,Maharashtra,Aggressive,Wealth Creation,8,Affluent
+INV0411,Male,37,Single,Salaried,800000,Pune,Maharashtra,Conservative,Retirement,6,Affluent
+INV0412,Female,50,Single,Self-Employed,800000,Kolkata,West Bengal,Moderate,Retirement,13,Affluent
+INV0413,Male,22,Single,Government Employee,1500000,Delhi,Delhi,Conservative,Wealth Creation,17,HNI
+INV0414,Male,48,Married,Professional,1000000,Kolkata,West Bengal,Aggressive,Wealth Creation,9,Affluent
+INV0415,Female,32,Married,Government Employee,300000,Kolkata,West Bengal,Conservative,Retirement,22,Mass
+INV0416,Male,49,Married,Self-Employed,2000000,Chennai,Tamil Nadu,Conservative,Retirement,21,HNI
+INV0417,Female,26,Single,Self-Employed,450000,Chennai,Tamil Nadu,Conservative,Child Education,25,Mass
+INV0418,Female,34,Married,Salaried,1500000,Bengaluru,Karnataka,Moderate,House Purchase,8,HNI
+INV0419,Male,56,Single,Salaried,600000,Kolkata,West Bengal,Aggressive,Child Education,8,Mass
+INV0420,Female,26,Married,Salaried,800000,Kolkata,West Bengal,Conservative,Child Education,22,Affluent
+INV0421,Female,23,Married,Professional,800000,Nagpur,Maharashtra,Aggressive,Retirement,20,Affluent
+INV0422,Male,40,Single,Self-Employed,300000,Nagpur,Maharashtra,Aggressive,Child Education,6,Mass
+INV0423,Male,30,Single,Business,600000,Delhi,Delhi,Moderate,Retirement,20,Mass
+INV0424,Female,27,Single,Salaried,1500000,Pune,Maharashtra,Conservative,House Purchase,7,HNI
+INV0425,Female,56,Single,Professional,450000,Mumbai,Maharashtra,Conservative,Wealth Creation,8,Mass
+INV0426,Female,30,Single,Professional,450000,Delhi,Delhi,Conservative,Wealth Creation,19,Mass
+INV0427,Female,24,Single,Business,800000,Pune,Maharashtra,Aggressive,House Purchase,23,Affluent
+INV0428,Male,43,Single,Self-Employed,1000000,Ahmedabad,Gujarat,Moderate,House Purchase,12,Affluent
+INV0429,Female,25,Single,Professional,2000000,Pune,Maharashtra,Conservative,Retirement,21,HNI
+INV0430,Male,28,Single,Salaried,1000000,Mumbai,Maharashtra,Moderate,Retirement,7,Affluent
+INV0431,Female,30,Single,Business,450000,Bengaluru,Karnataka,Conservative,House Purchase,23,Mass
+INV0432,Female,42,Married,Government Employee,300000,Ahmedabad,Gujarat,Moderate,Wealth Creation,6,Mass
+INV0433,Male,55,Married,Government Employee,300000,Delhi,Delhi,Conservative,Wealth Creation,7,Mass
+INV0434,Female,39,Single,Government Employee,800000,Chennai,Tamil Nadu,Moderate,Wealth Creation,9,Affluent
+INV0435,Female,57,Single,Government Employee,300000,Kolkata,West Bengal,Conservative,Wealth Creation,5,Mass
+INV0436,Male,49,Single,Business,1200000,Mumbai,Maharashtra,Aggressive,Retirement,9,Affluent
+INV0437,Male,47,Married,Salaried,600000,Hyderabad,Telangana,Conservative,Retirement,18,Mass
+INV0438,Male,44,Single,Government Employee,600000,Chennai,Tamil Nadu,Conservative,Child Education,7,Mass
+INV0439,Female,40,Married,Business,1000000,Kolkata,West Bengal,Moderate,House Purchase,25,Affluent
+INV0440,Female,25,Single,Self-Employed,1000000,Bengaluru,Karnataka,Conservative,Child Education,19,Affluent
+INV0441,Male,34,Single,Self-Employed,1000000,Chennai,Tamil Nadu,Moderate,Wealth Creation,20,Affluent
+INV0442,Male,51,Single,Business,1500000,Pune,Maharashtra,Conservative,Wealth Creation,21,HNI
+INV0443,Male,36,Married,Business,1200000,Bengaluru,Karnataka,Moderate,Wealth Creation,7,Affluent
+INV0444,Female,29,Single,Salaried,1500000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,5,HNI
+INV0445,Female,47,Married,Government Employee,800000,Mumbai,Maharashtra,Moderate,House Purchase,25,Affluent
+INV0446,Female,43,Married,Self-Employed,1500000,Pune,Maharashtra,Conservative,Wealth Creation,6,HNI
+INV0447,Female,23,Single,Professional,2000000,Solapur,Maharashtra,Aggressive,Child Education,16,HNI
+INV0448,Female,36,Married,Government Employee,600000,Hyderabad,Telangana,Moderate,Child Education,21,Mass
+INV0449,Male,36,Married,Business,300000,Pune,Maharashtra,Aggressive,House Purchase,13,Mass
+INV0450,Female,29,Single,Self-Employed,1500000,Nagpur,Maharashtra,Aggressive,Wealth Creation,6,HNI
+INV0451,Female,41,Single,Self-Employed,800000,Kolkata,West Bengal,Moderate,Wealth Creation,16,Affluent
+INV0452,Female,36,Single,Salaried,2000000,Chennai,Tamil Nadu,Conservative,Wealth Creation,7,HNI
+INV0453,Female,49,Single,Salaried,2000000,Chennai,Tamil Nadu,Aggressive,Wealth Creation,18,HNI
+INV0454,Female,23,Single,Salaried,1000000,Ahmedabad,Gujarat,Conservative,House Purchase,17,Affluent
+INV0455,Male,33,Single,Self-Employed,1200000,Bengaluru,Karnataka,Moderate,Retirement,18,Affluent
+INV0456,Male,57,Single,Self-Employed,300000,Solapur,Maharashtra,Conservative,Retirement,5,Mass
+INV0457,Male,23,Single,Self-Employed,2000000,Chennai,Tamil Nadu,Moderate,Retirement,8,HNI
+INV0458,Male,22,Single,Business,2000000,Bengaluru,Karnataka,Moderate,Wealth Creation,10,HNI
+INV0459,Female,50,Single,Salaried,2000000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,18,HNI
+INV0460,Female,25,Single,Business,800000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,13,Affluent
+INV0461,Male,41,Married,Salaried,2000000,Mumbai,Maharashtra,Aggressive,Retirement,23,HNI
+INV0462,Female,50,Married,Government Employee,1200000,Bengaluru,Karnataka,Aggressive,Child Education,13,Affluent
+INV0463,Male,52,Married,Salaried,1500000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,13,HNI
+INV0464,Female,52,Married,Business,1000000,Mumbai,Maharashtra,Moderate,House Purchase,19,Affluent
+INV0465,Female,40,Married,Business,1500000,Ahmedabad,Gujarat,Conservative,Child Education,24,HNI
+INV0466,Male,34,Married,Self-Employed,800000,Chennai,Tamil Nadu,Conservative,Child Education,17,Affluent
+INV0467,Male,48,Single,Government Employee,450000,Bengaluru,Karnataka,Moderate,Retirement,11,Mass
+INV0468,Male,33,Married,Salaried,1500000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,12,HNI
+INV0469,Male,39,Married,Self-Employed,600000,Delhi,Delhi,Moderate,Retirement,15,Mass
+INV0470,Male,30,Married,Salaried,2000000,Solapur,Maharashtra,Moderate,Retirement,6,HNI
+INV0471,Male,24,Single,Government Employee,1200000,Pune,Maharashtra,Moderate,Wealth Creation,9,Affluent
+INV0472,Male,49,Married,Self-Employed,1500000,Bengaluru,Karnataka,Conservative,House Purchase,10,HNI
+INV0473,Female,53,Married,Self-Employed,1000000,Delhi,Delhi,Aggressive,Child Education,25,Affluent
+INV0474,Female,28,Married,Salaried,1000000,Pune,Maharashtra,Conservative,Wealth Creation,6,Affluent
+INV0475,Male,59,Married,Professional,600000,Mumbai,Maharashtra,Moderate,Wealth Creation,10,Mass
+INV0476,Male,28,Married,Government Employee,300000,Kolkata,West Bengal,Conservative,Child Education,7,Mass
+INV0477,Female,52,Married,Salaried,600000,Delhi,Delhi,Conservative,Child Education,24,Mass
+INV0478,Male,51,Single,Professional,300000,Chennai,Tamil Nadu,Moderate,Child Education,11,Mass
+INV0479,Male,32,Single,Government Employee,450000,Solapur,Maharashtra,Moderate,Child Education,22,Mass
+INV0480,Female,26,Single,Professional,1500000,Chennai,Tamil Nadu,Moderate,House Purchase,16,HNI
+INV0481,Male,29,Single,Salaried,600000,Delhi,Delhi,Aggressive,House Purchase,8,Mass
+INV0482,Male,57,Single,Professional,1000000,Bengaluru,Karnataka,Conservative,Retirement,18,Affluent
+INV0483,Male,59,Married,Salaried,300000,Pune,Maharashtra,Aggressive,Wealth Creation,19,Mass
+INV0484,Female,59,Single,Business,1200000,Mumbai,Maharashtra,Conservative,House Purchase,19,Affluent
+INV0485,Female,30,Single,Self-Employed,800000,Bengaluru,Karnataka,Aggressive,Child Education,21,Affluent
+INV0486,Female,38,Single,Salaried,800000,Delhi,Delhi,Conservative,Retirement,12,Affluent
+INV0487,Male,56,Married,Business,1200000,Pune,Maharashtra,Conservative,House Purchase,5,Affluent
+INV0488,Male,60,Married,Professional,1200000,Ahmedabad,Gujarat,Aggressive,Child Education,6,Affluent
+INV0489,Male,47,Married,Professional,450000,Solapur,Maharashtra,Moderate,House Purchase,6,Mass
+INV0490,Female,36,Single,Government Employee,1000000,Ahmedabad,Gujarat,Conservative,Wealth Creation,16,Affluent
+INV0491,Female,44,Single,Government Employee,1000000,Mumbai,Maharashtra,Aggressive,Wealth Creation,13,Affluent
+INV0492,Male,55,Married,Professional,1200000,Bengaluru,Karnataka,Conservative,Retirement,21,Affluent
+INV0493,Male,24,Married,Professional,1000000,Hyderabad,Telangana,Conservative,Child Education,20,Affluent
+INV0494,Female,59,Single,Salaried,2000000,Hyderabad,Telangana,Moderate,Child Education,20,HNI
+INV0495,Female,55,Married,Self-Employed,1000000,Kolkata,West Bengal,Conservative,House Purchase,16,Affluent
+INV0496,Male,33,Married,Professional,800000,Chennai,Tamil Nadu,Conservative,Child Education,16,Affluent
+INV0497,Male,24,Single,Business,2000000,Mumbai,Maharashtra,Aggressive,Wealth Creation,17,HNI
+INV0498,Male,46,Married,Government Employee,1200000,Bengaluru,Karnataka,Aggressive,House Purchase,17,Affluent
+INV0499,Female,42,Married,Business,2000000,Chennai,Tamil Nadu,Conservative,Child Education,24,HNI
+INV0500,Male,55,Single,Self-Employed,1200000,Nagpur,Maharashtra,Aggressive,Retirement,11,Affluent
+INV0501,Male,49,Single,Government Employee,450000,Kolkata,West Bengal,Moderate,Child Education,7,Mass
+INV0502,Female,30,Single,Salaried,1000000,Delhi,Delhi,Conservative,Child Education,10,Affluent
+INV0503,Female,57,Married,Self-Employed,1000000,Delhi,Delhi,Conservative,Wealth Creation,17,Affluent
+INV0504,Male,49,Married,Government Employee,1000000,Kolkata,West Bengal,Moderate,House Purchase,24,Affluent
+INV0505,Female,22,Single,Government Employee,300000,Ahmedabad,Gujarat,Moderate,Wealth Creation,8,Mass
+INV0506,Male,58,Single,Business,1200000,Delhi,Delhi,Conservative,Wealth Creation,10,Affluent
+INV0507,Female,41,Married,Government Employee,1000000,Nagpur,Maharashtra,Conservative,Retirement,25,Affluent
+INV0508,Male,34,Single,Professional,800000,Hyderabad,Telangana,Moderate,Retirement,14,Affluent
+INV0509,Male,56,Married,Self-Employed,1500000,Nagpur,Maharashtra,Conservative,Wealth Creation,18,HNI
+INV0510,Female,34,Single,Business,450000,Delhi,Delhi,Conservative,Retirement,13,Mass
+INV0511,Male,54,Single,Professional,2000000,Kolkata,West Bengal,Conservative,Child Education,11,HNI
+INV0512,Male,44,Married,Business,800000,Delhi,Delhi,Conservative,House Purchase,25,Affluent
+INV0513,Male,35,Single,Business,300000,Hyderabad,Telangana,Moderate,House Purchase,14,Mass
+INV0514,Female,30,Single,Government Employee,1200000,Solapur,Maharashtra,Moderate,House Purchase,14,Affluent
+INV0515,Female,32,Single,Government Employee,300000,Solapur,Maharashtra,Moderate,Child Education,12,Mass
+INV0516,Female,25,Single,Business,1000000,Pune,Maharashtra,Aggressive,Child Education,7,Affluent
+INV0517,Female,37,Single,Professional,450000,Pune,Maharashtra,Aggressive,Child Education,6,Mass
+INV0518,Male,34,Married,Professional,800000,Hyderabad,Telangana,Aggressive,House Purchase,24,Affluent
+INV0519,Female,49,Single,Self-Employed,600000,Delhi,Delhi,Conservative,Child Education,23,Mass
+INV0520,Male,41,Married,Salaried,800000,Bengaluru,Karnataka,Moderate,Wealth Creation,13,Affluent
+INV0521,Male,44,Married,Professional,300000,Kolkata,West Bengal,Aggressive,Retirement,25,Mass
+INV0522,Female,35,Single,Business,300000,Delhi,Delhi,Moderate,Child Education,6,Mass
+INV0523,Male,30,Single,Business,2000000,Ahmedabad,Gujarat,Moderate,Wealth Creation,14,HNI
+INV0524,Male,56,Married,Salaried,2000000,Kolkata,West Bengal,Conservative,House Purchase,5,HNI
+INV0525,Male,30,Married,Self-Employed,450000,Bengaluru,Karnataka,Aggressive,Retirement,9,Mass
+INV0526,Female,25,Married,Self-Employed,300000,Solapur,Maharashtra,Aggressive,Child Education,6,Mass
+INV0527,Male,60,Married,Salaried,1200000,Kolkata,West Bengal,Aggressive,Child Education,11,Affluent
+INV0528,Female,58,Single,Professional,300000,Hyderabad,Telangana,Moderate,Wealth Creation,12,Mass
+INV0529,Male,24,Single,Government Employee,2000000,Solapur,Maharashtra,Conservative,Retirement,6,HNI
+INV0530,Female,50,Single,Government Employee,1000000,Delhi,Delhi,Aggressive,Child Education,7,Affluent
+INV0531,Male,23,Single,Self-Employed,600000,Ahmedabad,Gujarat,Moderate,Wealth Creation,9,Mass
+INV0532,Male,51,Single,Salaried,2000000,Nagpur,Maharashtra,Moderate,Child Education,9,HNI
+INV0533,Male,34,Married,Salaried,800000,Kolkata,West Bengal,Conservative,Retirement,16,Affluent
+INV0534,Male,49,Married,Professional,1200000,Pune,Maharashtra,Aggressive,Wealth Creation,14,Affluent
+INV0535,Female,33,Single,Self-Employed,2000000,Chennai,Tamil Nadu,Aggressive,Wealth Creation,6,HNI
+INV0536,Female,50,Single,Government Employee,450000,Delhi,Delhi,Moderate,House Purchase,24,Mass
+INV0537,Female,25,Married,Business,800000,Hyderabad,Telangana,Conservative,House Purchase,21,Affluent
+INV0538,Male,34,Single,Salaried,1200000,Ahmedabad,Gujarat,Aggressive,Child Education,18,Affluent
+INV0539,Male,43,Single,Business,800000,Pune,Maharashtra,Moderate,House Purchase,10,Affluent
+INV0540,Male,23,Single,Salaried,600000,Mumbai,Maharashtra,Conservative,Child Education,8,Mass
+INV0541,Male,55,Married,Salaried,1200000,Ahmedabad,Gujarat,Conservative,Wealth Creation,22,Affluent
+INV0542,Male,29,Married,Salaried,1200000,Bengaluru,Karnataka,Moderate,Child Education,10,Affluent
+INV0543,Female,28,Single,Business,2000000,Mumbai,Maharashtra,Aggressive,Retirement,15,HNI
+INV0544,Male,38,Married,Professional,300000,Hyderabad,Telangana,Aggressive,Child Education,21,Mass
+INV0545,Female,39,Single,Self-Employed,300000,Hyderabad,Telangana,Moderate,Wealth Creation,18,Mass
+INV0546,Female,38,Married,Salaried,300000,Ahmedabad,Gujarat,Aggressive,Child Education,21,Mass
+INV0547,Male,48,Married,Salaried,600000,Ahmedabad,Gujarat,Moderate,Wealth Creation,15,Mass
+INV0548,Male,49,Married,Self-Employed,450000,Pune,Maharashtra,Moderate,Wealth Creation,12,Mass
+INV0549,Male,35,Single,Self-Employed,600000,Kolkata,West Bengal,Aggressive,House Purchase,5,Mass
+INV0550,Male,25,Married,Government Employee,600000,Nagpur,Maharashtra,Aggressive,House Purchase,16,Mass
+INV0551,Male,60,Married,Professional,800000,Delhi,Delhi,Conservative,Wealth Creation,5,Affluent
+INV0552,Male,30,Married,Government Employee,450000,Kolkata,West Bengal,Aggressive,Retirement,6,Mass
+INV0553,Female,42,Married,Professional,2000000,Nagpur,Maharashtra,Aggressive,House Purchase,7,HNI
+INV0554,Male,38,Married,Self-Employed,800000,Nagpur,Maharashtra,Moderate,Child Education,21,Affluent
+INV0555,Male,42,Single,Business,450000,Ahmedabad,Gujarat,Conservative,Child Education,7,Mass
+INV0556,Male,51,Married,Business,1500000,Mumbai,Maharashtra,Conservative,Wealth Creation,10,HNI
+INV0557,Male,22,Single,Professional,450000,Kolkata,West Bengal,Moderate,Wealth Creation,13,Mass
+INV0558,Male,55,Married,Government Employee,600000,Kolkata,West Bengal,Aggressive,Child Education,25,Mass
+INV0559,Male,31,Married,Professional,1200000,Chennai,Tamil Nadu,Conservative,Wealth Creation,25,Affluent
+INV0560,Male,25,Single,Self-Employed,300000,Delhi,Delhi,Conservative,Wealth Creation,19,Mass
+INV0561,Male,28,Single,Professional,800000,Delhi,Delhi,Moderate,Wealth Creation,23,Affluent
+INV0562,Female,47,Single,Business,1000000,Mumbai,Maharashtra,Moderate,Child Education,6,Affluent
+INV0563,Female,60,Married,Self-Employed,1000000,Hyderabad,Telangana,Moderate,Child Education,7,Affluent
+INV0564,Male,42,Single,Self-Employed,300000,Bengaluru,Karnataka,Conservative,Wealth Creation,7,Mass
+INV0565,Male,33,Single,Self-Employed,1000000,Hyderabad,Telangana,Aggressive,House Purchase,11,Affluent
+INV0566,Female,29,Married,Business,300000,Hyderabad,Telangana,Moderate,Wealth Creation,12,Mass
+INV0567,Female,24,Single,Self-Employed,300000,Bengaluru,Karnataka,Moderate,House Purchase,19,Mass
+INV0568,Male,27,Married,Government Employee,600000,Ahmedabad,Gujarat,Conservative,Child Education,5,Mass
+INV0569,Female,50,Married,Professional,1500000,Hyderabad,Telangana,Conservative,Retirement,18,HNI
+INV0570,Male,46,Single,Business,800000,Hyderabad,Telangana,Aggressive,House Purchase,14,Affluent
+INV0571,Female,30,Married,Professional,1200000,Hyderabad,Telangana,Conservative,House Purchase,16,Affluent
+INV0572,Female,23,Single,Professional,1000000,Hyderabad,Telangana,Conservative,Retirement,11,Affluent
+INV0573,Female,33,Single,Government Employee,1500000,Bengaluru,Karnataka,Moderate,House Purchase,14,HNI
+INV0574,Female,36,Married,Professional,1500000,Mumbai,Maharashtra,Moderate,Wealth Creation,8,HNI
+INV0575,Female,36,Single,Professional,2000000,Delhi,Delhi,Aggressive,Retirement,15,HNI
+INV0576,Male,50,Single,Business,1200000,Nagpur,Maharashtra,Aggressive,Retirement,14,Affluent
+INV0577,Male,24,Married,Salaried,800000,Chennai,Tamil Nadu,Aggressive,Child Education,22,Affluent
+INV0578,Male,27,Single,Professional,1200000,Delhi,Delhi,Aggressive,Child Education,11,Affluent
+INV0579,Male,39,Single,Business,1200000,Pune,Maharashtra,Aggressive,Child Education,24,Affluent
+INV0580,Female,30,Married,Government Employee,800000,Solapur,Maharashtra,Aggressive,House Purchase,14,Affluent
+INV0581,Male,35,Single,Government Employee,300000,Mumbai,Maharashtra,Moderate,House Purchase,17,Mass
+INV0582,Female,54,Married,Self-Employed,800000,Kolkata,West Bengal,Moderate,Retirement,10,Affluent
+INV0583,Male,25,Single,Self-Employed,300000,Nagpur,Maharashtra,Aggressive,House Purchase,15,Mass
+INV0584,Female,42,Married,Government Employee,600000,Ahmedabad,Gujarat,Aggressive,Retirement,17,Mass
+INV0585,Male,29,Married,Self-Employed,450000,Hyderabad,Telangana,Moderate,Wealth Creation,14,Mass
+INV0586,Male,27,Married,Government Employee,1200000,Delhi,Delhi,Conservative,Child Education,23,Affluent
+INV0587,Female,50,Single,Business,1000000,Solapur,Maharashtra,Conservative,Wealth Creation,6,Affluent
+INV0588,Female,59,Married,Professional,1200000,Pune,Maharashtra,Aggressive,Wealth Creation,6,Affluent
+INV0589,Male,24,Married,Salaried,1000000,Solapur,Maharashtra,Moderate,House Purchase,9,Affluent
+INV0590,Male,57,Married,Salaried,800000,Delhi,Delhi,Conservative,Wealth Creation,18,Affluent
+INV0591,Male,38,Single,Government Employee,450000,Ahmedabad,Gujarat,Moderate,Child Education,25,Mass
+INV0592,Female,56,Single,Salaried,600000,Delhi,Delhi,Aggressive,Wealth Creation,8,Mass
+INV0593,Female,56,Single,Professional,300000,Delhi,Delhi,Conservative,House Purchase,22,Mass
+INV0594,Female,55,Single,Self-Employed,300000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,13,Mass
+INV0595,Male,48,Single,Salaried,800000,Mumbai,Maharashtra,Conservative,House Purchase,17,Affluent
+INV0596,Male,44,Married,Self-Employed,1500000,Kolkata,West Bengal,Aggressive,Wealth Creation,25,HNI
+INV0597,Male,36,Single,Professional,300000,Bengaluru,Karnataka,Aggressive,Child Education,5,Mass
+INV0598,Female,44,Married,Business,300000,Hyderabad,Telangana,Moderate,Wealth Creation,22,Mass
+INV0599,Female,48,Single,Business,450000,Delhi,Delhi,Conservative,Child Education,14,Mass
+INV0600,Male,37,Married,Government Employee,1500000,Kolkata,West Bengal,Moderate,Retirement,13,HNI
+INV0601,Male,57,Married,Self-Employed,600000,Solapur,Maharashtra,Aggressive,Wealth Creation,22,Mass
+INV0602,Male,35,Single,Government Employee,800000,Solapur,Maharashtra,Moderate,Wealth Creation,22,Affluent
+INV0603,Male,26,Married,Professional,800000,Solapur,Maharashtra,Moderate,Retirement,25,Affluent
+INV0604,Male,22,Single,Self-Employed,300000,Ahmedabad,Gujarat,Aggressive,House Purchase,6,Mass
+INV0605,Female,55,Single,Self-Employed,2000000,Delhi,Delhi,Aggressive,Wealth Creation,23,HNI
+INV0606,Female,30,Single,Professional,600000,Ahmedabad,Gujarat,Conservative,Retirement,14,Mass
+INV0607,Male,39,Married,Salaried,2000000,Ahmedabad,Gujarat,Moderate,House Purchase,25,HNI
+INV0608,Male,58,Single,Government Employee,600000,Solapur,Maharashtra,Conservative,House Purchase,23,Mass
+INV0609,Male,51,Married,Salaried,450000,Chennai,Tamil Nadu,Moderate,Child Education,12,Mass
+INV0610,Male,25,Single,Self-Employed,600000,Nagpur,Maharashtra,Aggressive,House Purchase,25,Mass
+INV0611,Female,22,Married,Government Employee,1000000,Kolkata,West Bengal,Conservative,Wealth Creation,17,Affluent
+INV0612,Male,47,Single,Business,2000000,Nagpur,Maharashtra,Aggressive,Child Education,21,HNI
+INV0613,Female,49,Married,Business,800000,Mumbai,Maharashtra,Moderate,House Purchase,18,Affluent
+INV0614,Female,59,Single,Business,2000000,Nagpur,Maharashtra,Aggressive,House Purchase,17,HNI
+INV0615,Male,37,Single,Professional,1000000,Delhi,Delhi,Conservative,Retirement,14,Affluent
+INV0616,Male,40,Single,Self-Employed,800000,Mumbai,Maharashtra,Conservative,House Purchase,16,Affluent
+INV0617,Female,37,Single,Business,1200000,Ahmedabad,Gujarat,Aggressive,Child Education,22,Affluent
+INV0618,Female,60,Married,Salaried,800000,Bengaluru,Karnataka,Aggressive,House Purchase,18,Affluent
+INV0619,Female,33,Married,Self-Employed,1200000,Nagpur,Maharashtra,Conservative,Retirement,17,Affluent
+INV0620,Female,58,Married,Business,1500000,Mumbai,Maharashtra,Conservative,Child Education,6,HNI
+INV0621,Male,51,Single,Salaried,1000000,Kolkata,West Bengal,Moderate,House Purchase,17,Affluent
+INV0622,Male,56,Married,Self-Employed,1200000,Bengaluru,Karnataka,Moderate,Wealth Creation,15,Affluent
+INV0623,Female,56,Married,Government Employee,1000000,Pune,Maharashtra,Moderate,House Purchase,12,Affluent
+INV0624,Female,47,Married,Business,800000,Ahmedabad,Gujarat,Conservative,Child Education,5,Affluent
+INV0625,Male,33,Single,Self-Employed,1500000,Hyderabad,Telangana,Moderate,Retirement,23,HNI
+INV0626,Female,55,Single,Government Employee,1200000,Kolkata,West Bengal,Aggressive,Wealth Creation,21,Affluent
+INV0627,Female,50,Married,Government Employee,2000000,Nagpur,Maharashtra,Conservative,Wealth Creation,16,HNI
+INV0628,Male,32,Single,Government Employee,450000,Kolkata,West Bengal,Aggressive,House Purchase,21,Mass
+INV0629,Female,55,Single,Self-Employed,2000000,Solapur,Maharashtra,Conservative,Wealth Creation,17,HNI
+INV0630,Male,48,Single,Professional,1500000,Nagpur,Maharashtra,Moderate,Retirement,16,HNI
+INV0631,Male,35,Married,Self-Employed,800000,Kolkata,West Bengal,Conservative,House Purchase,24,Affluent
+INV0632,Female,33,Single,Professional,1200000,Hyderabad,Telangana,Conservative,Child Education,23,Affluent
+INV0633,Male,53,Married,Salaried,2000000,Chennai,Tamil Nadu,Moderate,House Purchase,14,HNI
+INV0634,Male,56,Single,Professional,800000,Delhi,Delhi,Aggressive,Wealth Creation,6,Affluent
+INV0635,Male,30,Single,Salaried,600000,Chennai,Tamil Nadu,Aggressive,House Purchase,24,Mass
+INV0636,Male,36,Married,Government Employee,300000,Pune,Maharashtra,Conservative,House Purchase,17,Mass
+INV0637,Male,51,Single,Self-Employed,1200000,Mumbai,Maharashtra,Conservative,Child Education,13,Affluent
+INV0638,Male,54,Single,Business,2000000,Nagpur,Maharashtra,Aggressive,House Purchase,22,HNI
+INV0639,Male,48,Married,Government Employee,1500000,Nagpur,Maharashtra,Moderate,Wealth Creation,10,HNI
+INV0640,Male,40,Single,Salaried,2000000,Solapur,Maharashtra,Conservative,Retirement,19,HNI
+INV0641,Male,33,Single,Professional,1500000,Bengaluru,Karnataka,Moderate,House Purchase,10,HNI
+INV0642,Female,40,Married,Self-Employed,300000,Mumbai,Maharashtra,Aggressive,Retirement,19,Mass
+INV0643,Male,26,Married,Salaried,1200000,Nagpur,Maharashtra,Aggressive,Wealth Creation,17,Affluent
+INV0644,Female,22,Married,Salaried,450000,Bengaluru,Karnataka,Moderate,Child Education,21,Mass
+INV0645,Female,43,Single,Professional,800000,Bengaluru,Karnataka,Moderate,Retirement,12,Affluent
+INV0646,Female,41,Married,Salaried,450000,Solapur,Maharashtra,Conservative,Retirement,16,Mass
+INV0647,Female,44,Married,Salaried,600000,Nagpur,Maharashtra,Conservative,House Purchase,15,Mass
+INV0648,Female,55,Married,Self-Employed,1500000,Bengaluru,Karnataka,Conservative,Retirement,13,HNI
+INV0649,Male,32,Single,Government Employee,2000000,Mumbai,Maharashtra,Aggressive,House Purchase,9,HNI
+INV0650,Male,37,Married,Salaried,1500000,Ahmedabad,Gujarat,Moderate,Wealth Creation,23,HNI
+INV0651,Female,22,Single,Salaried,800000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,14,Affluent
+INV0652,Female,46,Married,Self-Employed,300000,Chennai,Tamil Nadu,Conservative,Retirement,10,Mass
+INV0653,Female,42,Married,Professional,600000,Delhi,Delhi,Moderate,Child Education,5,Mass
+INV0654,Female,56,Married,Government Employee,1500000,Ahmedabad,Gujarat,Conservative,House Purchase,23,HNI
+INV0655,Female,31,Single,Business,1200000,Chennai,Tamil Nadu,Aggressive,Wealth Creation,7,Affluent
+INV0656,Male,32,Single,Salaried,2000000,Delhi,Delhi,Moderate,Retirement,7,HNI
+INV0657,Female,47,Married,Business,1000000,Mumbai,Maharashtra,Moderate,Wealth Creation,13,Affluent
+INV0658,Male,33,Single,Government Employee,600000,Delhi,Delhi,Conservative,House Purchase,22,Mass
+INV0659,Male,23,Single,Business,1000000,Delhi,Delhi,Moderate,Retirement,23,Affluent
+INV0660,Female,60,Single,Business,450000,Ahmedabad,Gujarat,Moderate,Wealth Creation,22,Mass
+INV0661,Female,41,Single,Self-Employed,600000,Nagpur,Maharashtra,Aggressive,Wealth Creation,11,Mass
+INV0662,Female,60,Married,Business,1200000,Hyderabad,Telangana,Moderate,House Purchase,5,Affluent
+INV0663,Female,55,Married,Business,1000000,Delhi,Delhi,Moderate,Child Education,8,Affluent
+INV0664,Female,33,Married,Business,600000,Hyderabad,Telangana,Moderate,House Purchase,25,Mass
+INV0665,Male,34,Single,Government Employee,1000000,Hyderabad,Telangana,Aggressive,Retirement,17,Affluent
+INV0666,Male,50,Single,Government Employee,1500000,Pune,Maharashtra,Conservative,House Purchase,13,HNI
+INV0667,Male,44,Single,Salaried,1500000,Nagpur,Maharashtra,Moderate,Retirement,18,HNI
+INV0668,Male,56,Single,Professional,1000000,Hyderabad,Telangana,Conservative,Child Education,12,Affluent
+INV0669,Male,52,Single,Professional,300000,Ahmedabad,Gujarat,Moderate,Wealth Creation,13,Mass
+INV0670,Male,23,Married,Business,600000,Bengaluru,Karnataka,Conservative,House Purchase,9,Mass
+INV0671,Male,58,Married,Professional,1200000,Bengaluru,Karnataka,Aggressive,Child Education,5,Affluent
+INV0672,Male,57,Married,Business,1000000,Delhi,Delhi,Aggressive,Retirement,25,Affluent
+INV0673,Female,38,Single,Business,1200000,Hyderabad,Telangana,Moderate,House Purchase,18,Affluent
+INV0674,Female,42,Married,Self-Employed,1200000,Delhi,Delhi,Moderate,House Purchase,22,Affluent
+INV0675,Male,44,Married,Business,800000,Nagpur,Maharashtra,Moderate,Child Education,16,Affluent
+INV0676,Male,44,Single,Salaried,450000,Solapur,Maharashtra,Conservative,Child Education,13,Mass
+INV0677,Female,34,Married,Business,800000,Solapur,Maharashtra,Conservative,House Purchase,10,Affluent
+INV0678,Female,58,Married,Government Employee,1200000,Nagpur,Maharashtra,Moderate,Retirement,12,Affluent
+INV0679,Male,32,Married,Business,1200000,Bengaluru,Karnataka,Conservative,House Purchase,25,Affluent
+INV0680,Male,34,Married,Business,600000,Bengaluru,Karnataka,Moderate,Wealth Creation,19,Mass
+INV0681,Male,30,Single,Salaried,450000,Delhi,Delhi,Conservative,Child Education,8,Mass
+INV0682,Female,27,Married,Professional,2000000,Chennai,Tamil Nadu,Aggressive,Child Education,13,HNI
+INV0683,Female,35,Married,Government Employee,1000000,Mumbai,Maharashtra,Conservative,Wealth Creation,15,Affluent
+INV0684,Female,23,Single,Business,600000,Kolkata,West Bengal,Conservative,Retirement,15,Mass
+INV0685,Female,59,Married,Self-Employed,1000000,Mumbai,Maharashtra,Aggressive,Child Education,22,Affluent
+INV0686,Male,35,Single,Salaried,800000,Kolkata,West Bengal,Conservative,Wealth Creation,9,Affluent
+INV0687,Male,36,Married,Salaried,450000,Kolkata,West Bengal,Conservative,Retirement,10,Mass
+INV0688,Female,26,Married,Professional,450000,Solapur,Maharashtra,Aggressive,Retirement,13,Mass
+INV0689,Female,47,Single,Salaried,2000000,Kolkata,West Bengal,Aggressive,Retirement,20,HNI
+INV0690,Male,33,Married,Government Employee,450000,Delhi,Delhi,Moderate,Wealth Creation,23,Mass
+INV0691,Male,30,Married,Professional,600000,Nagpur,Maharashtra,Moderate,House Purchase,7,Mass
+INV0692,Male,60,Single,Self-Employed,1000000,Hyderabad,Telangana,Moderate,Child Education,8,Affluent
+INV0693,Male,38,Single,Salaried,300000,Ahmedabad,Gujarat,Moderate,Child Education,19,Mass
+INV0694,Male,42,Single,Government Employee,1200000,Pune,Maharashtra,Conservative,Wealth Creation,25,Affluent
+INV0695,Male,44,Single,Business,1000000,Ahmedabad,Gujarat,Aggressive,Retirement,16,Affluent
+INV0696,Female,36,Single,Salaried,1500000,Chennai,Tamil Nadu,Moderate,Wealth Creation,25,HNI
+INV0697,Male,50,Married,Self-Employed,450000,Pune,Maharashtra,Conservative,Retirement,19,Mass
+INV0698,Male,47,Married,Government Employee,1500000,Bengaluru,Karnataka,Conservative,Wealth Creation,24,HNI
+INV0699,Male,42,Single,Salaried,1000000,Solapur,Maharashtra,Conservative,Child Education,9,Affluent
+INV0700,Male,58,Married,Business,1200000,Bengaluru,Karnataka,Moderate,Child Education,23,Affluent
+INV0701,Male,50,Single,Business,1500000,Kolkata,West Bengal,Aggressive,Child Education,9,HNI
+INV0702,Male,24,Married,Self-Employed,1500000,Pune,Maharashtra,Conservative,Wealth Creation,14,HNI
+INV0703,Female,24,Married,Self-Employed,300000,Chennai,Tamil Nadu,Moderate,Child Education,14,Mass
+INV0704,Male,32,Single,Business,1500000,Ahmedabad,Gujarat,Aggressive,Child Education,25,HNI
+INV0705,Male,33,Married,Government Employee,800000,Mumbai,Maharashtra,Aggressive,Wealth Creation,14,Affluent
+INV0706,Female,37,Married,Government Employee,450000,Bengaluru,Karnataka,Conservative,Wealth Creation,22,Mass
+INV0707,Female,22,Married,Self-Employed,600000,Solapur,Maharashtra,Aggressive,Retirement,9,Mass
+INV0708,Male,42,Married,Government Employee,1200000,Delhi,Delhi,Aggressive,Child Education,9,Affluent
+INV0709,Male,34,Single,Business,1500000,Hyderabad,Telangana,Moderate,Retirement,24,HNI
+INV0710,Female,39,Married,Government Employee,2000000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,19,HNI
+INV0711,Male,25,Married,Self-Employed,600000,Hyderabad,Telangana,Moderate,Child Education,5,Mass
+INV0712,Female,25,Married,Business,800000,Pune,Maharashtra,Conservative,Wealth Creation,11,Affluent
+INV0713,Female,30,Single,Salaried,600000,Solapur,Maharashtra,Conservative,Child Education,17,Mass
+INV0714,Female,54,Single,Government Employee,300000,Solapur,Maharashtra,Moderate,Wealth Creation,10,Mass
+INV0715,Male,52,Married,Business,2000000,Kolkata,West Bengal,Aggressive,Retirement,8,HNI
+INV0716,Female,37,Single,Salaried,800000,Delhi,Delhi,Aggressive,Wealth Creation,7,Affluent
+INV0717,Male,57,Single,Government Employee,600000,Ahmedabad,Gujarat,Moderate,Child Education,9,Mass
+INV0718,Female,48,Single,Salaried,1500000,Hyderabad,Telangana,Aggressive,Child Education,18,HNI
+INV0719,Male,32,Single,Self-Employed,300000,Hyderabad,Telangana,Moderate,Wealth Creation,24,Mass
+INV0720,Female,56,Single,Salaried,2000000,Pune,Maharashtra,Moderate,Retirement,7,HNI
+INV0721,Female,31,Married,Professional,300000,Ahmedabad,Gujarat,Moderate,Child Education,11,Mass
+INV0722,Female,37,Married,Professional,1200000,Pune,Maharashtra,Aggressive,Retirement,18,Affluent
+INV0723,Female,22,Married,Business,1000000,Hyderabad,Telangana,Conservative,House Purchase,16,Affluent
+INV0724,Female,55,Single,Self-Employed,300000,Mumbai,Maharashtra,Moderate,Wealth Creation,24,Mass
+INV0725,Female,35,Single,Self-Employed,450000,Ahmedabad,Gujarat,Moderate,Child Education,19,Mass
+INV0726,Male,33,Married,Salaried,2000000,Pune,Maharashtra,Conservative,Wealth Creation,18,HNI
+INV0727,Female,49,Single,Business,600000,Hyderabad,Telangana,Aggressive,House Purchase,18,Mass
+INV0728,Male,39,Married,Self-Employed,300000,Ahmedabad,Gujarat,Moderate,Child Education,19,Mass
+INV0729,Male,28,Single,Self-Employed,1500000,Ahmedabad,Gujarat,Moderate,Retirement,6,HNI
+INV0730,Male,24,Married,Self-Employed,300000,Hyderabad,Telangana,Conservative,Retirement,24,Mass
+INV0731,Female,47,Single,Government Employee,1500000,Nagpur,Maharashtra,Moderate,Wealth Creation,10,HNI
+INV0732,Female,33,Married,Business,1500000,Pune,Maharashtra,Moderate,Retirement,18,HNI
+INV0733,Female,57,Single,Government Employee,1200000,Mumbai,Maharashtra,Moderate,Child Education,15,Affluent
+INV0734,Female,60,Married,Business,1000000,Ahmedabad,Gujarat,Moderate,Child Education,5,Affluent
+INV0735,Female,32,Married,Business,1500000,Chennai,Tamil Nadu,Moderate,Child Education,8,HNI
+INV0736,Female,57,Single,Government Employee,300000,Delhi,Delhi,Moderate,Child Education,18,Mass
+INV0737,Female,48,Single,Professional,800000,Ahmedabad,Gujarat,Aggressive,Retirement,20,Affluent
+INV0738,Female,44,Married,Salaried,450000,Chennai,Tamil Nadu,Aggressive,Wealth Creation,16,Mass
+INV0739,Female,51,Single,Business,300000,Chennai,Tamil Nadu,Aggressive,Child Education,10,Mass
+INV0740,Male,34,Married,Professional,300000,Delhi,Delhi,Moderate,House Purchase,10,Mass
+INV0741,Male,56,Married,Business,800000,Solapur,Maharashtra,Aggressive,House Purchase,18,Affluent
+INV0742,Female,45,Married,Government Employee,300000,Bengaluru,Karnataka,Moderate,Child Education,23,Mass
+INV0743,Female,40,Married,Salaried,1200000,Kolkata,West Bengal,Aggressive,House Purchase,19,Affluent
+INV0744,Male,57,Married,Professional,2000000,Hyderabad,Telangana,Aggressive,Child Education,11,HNI
+INV0745,Female,26,Single,Self-Employed,1200000,Bengaluru,Karnataka,Aggressive,Retirement,16,Affluent
+INV0746,Female,23,Single,Professional,800000,Bengaluru,Karnataka,Conservative,Child Education,5,Affluent
+INV0747,Male,35,Single,Self-Employed,600000,Hyderabad,Telangana,Aggressive,Child Education,13,Mass
+INV0748,Male,56,Married,Business,2000000,Pune,Maharashtra,Conservative,Retirement,16,HNI
+INV0749,Female,22,Single,Business,450000,Ahmedabad,Gujarat,Aggressive,Retirement,14,Mass
+INV0750,Male,30,Single,Self-Employed,1500000,Solapur,Maharashtra,Aggressive,House Purchase,20,HNI
+INV0751,Female,53,Single,Salaried,1000000,Hyderabad,Telangana,Conservative,Retirement,17,Affluent
+INV0752,Female,59,Married,Salaried,1000000,Ahmedabad,Gujarat,Moderate,Retirement,11,Affluent
+INV0753,Male,48,Married,Business,1000000,Delhi,Delhi,Aggressive,Child Education,13,Affluent
+INV0754,Female,30,Married,Government Employee,300000,Solapur,Maharashtra,Aggressive,House Purchase,20,Mass
+INV0755,Female,57,Single,Business,800000,Mumbai,Maharashtra,Conservative,Retirement,5,Affluent
+INV0756,Male,60,Single,Business,1500000,Bengaluru,Karnataka,Conservative,Retirement,16,HNI
+INV0757,Male,43,Single,Professional,1200000,Mumbai,Maharashtra,Aggressive,Child Education,22,Affluent
+INV0758,Female,41,Married,Professional,2000000,Solapur,Maharashtra,Aggressive,Retirement,10,HNI
+INV0759,Male,54,Married,Government Employee,450000,Delhi,Delhi,Conservative,Wealth Creation,24,Mass
+INV0760,Male,34,Married,Business,600000,Chennai,Tamil Nadu,Aggressive,Wealth Creation,5,Mass
+INV0761,Male,46,Single,Business,300000,Nagpur,Maharashtra,Conservative,Child Education,11,Mass
+INV0762,Male,55,Single,Self-Employed,1500000,Hyderabad,Telangana,Moderate,House Purchase,25,HNI
+INV0763,Male,36,Married,Salaried,600000,Bengaluru,Karnataka,Conservative,Retirement,11,Mass
+INV0764,Female,53,Single,Government Employee,1200000,Bengaluru,Karnataka,Conservative,Retirement,25,Affluent
+INV0765,Female,33,Married,Self-Employed,300000,Hyderabad,Telangana,Moderate,Child Education,15,Mass
+INV0766,Female,39,Single,Government Employee,300000,Delhi,Delhi,Conservative,Retirement,9,Mass
+INV0767,Male,28,Single,Salaried,1500000,Bengaluru,Karnataka,Moderate,Retirement,15,HNI
+INV0768,Male,26,Single,Self-Employed,2000000,Mumbai,Maharashtra,Aggressive,House Purchase,8,HNI
+INV0769,Female,29,Married,Government Employee,1000000,Nagpur,Maharashtra,Conservative,Wealth Creation,21,Affluent
+INV0770,Female,23,Married,Government Employee,800000,Hyderabad,Telangana,Conservative,Retirement,14,Affluent
+INV0771,Male,32,Single,Business,1000000,Pune,Maharashtra,Moderate,Retirement,19,Affluent
+INV0772,Female,51,Single,Self-Employed,450000,Mumbai,Maharashtra,Moderate,House Purchase,5,Mass
+INV0773,Female,41,Single,Professional,300000,Hyderabad,Telangana,Conservative,Wealth Creation,11,Mass
+INV0774,Female,23,Single,Professional,300000,Bengaluru,Karnataka,Aggressive,Wealth Creation,6,Mass
+INV0775,Female,36,Married,Self-Employed,600000,Mumbai,Maharashtra,Conservative,Wealth Creation,18,Mass
+INV0776,Female,43,Single,Business,600000,Hyderabad,Telangana,Aggressive,Child Education,5,Mass
+INV0777,Female,31,Single,Salaried,800000,Chennai,Tamil Nadu,Aggressive,Retirement,20,Affluent
+INV0778,Female,30,Single,Self-Employed,1000000,Solapur,Maharashtra,Moderate,Child Education,13,Affluent
+INV0779,Female,29,Married,Government Employee,1000000,Nagpur,Maharashtra,Aggressive,Wealth Creation,9,Affluent
+INV0780,Male,44,Single,Salaried,2000000,Bengaluru,Karnataka,Conservative,Wealth Creation,24,HNI
+INV0781,Male,30,Single,Government Employee,1500000,Mumbai,Maharashtra,Moderate,Child Education,10,HNI
+INV0782,Male,38,Married,Government Employee,1200000,Nagpur,Maharashtra,Conservative,Child Education,14,Affluent
+INV0783,Female,50,Single,Business,1200000,Mumbai,Maharashtra,Conservative,Retirement,16,Affluent
+INV0784,Female,40,Single,Government Employee,1500000,Solapur,Maharashtra,Moderate,Retirement,19,HNI
+INV0785,Male,40,Single,Government Employee,2000000,Nagpur,Maharashtra,Aggressive,Retirement,10,HNI
+INV0786,Female,26,Married,Salaried,600000,Chennai,Tamil Nadu,Moderate,Child Education,12,Mass
+INV0787,Female,35,Married,Professional,450000,Bengaluru,Karnataka,Aggressive,Wealth Creation,16,Mass
+INV0788,Male,28,Single,Self-Employed,1000000,Hyderabad,Telangana,Moderate,Wealth Creation,22,Affluent
+INV0789,Female,32,Married,Salaried,600000,Ahmedabad,Gujarat,Aggressive,Retirement,12,Mass
+INV0790,Male,55,Single,Salaried,2000000,Nagpur,Maharashtra,Moderate,Retirement,12,HNI
+INV0791,Female,24,Married,Salaried,2000000,Bengaluru,Karnataka,Conservative,Retirement,6,HNI
+INV0792,Male,22,Married,Professional,1500000,Mumbai,Maharashtra,Aggressive,Wealth Creation,9,HNI
+INV0793,Male,30,Single,Self-Employed,1200000,Hyderabad,Telangana,Moderate,Wealth Creation,18,Affluent
+INV0794,Male,43,Married,Salaried,300000,Delhi,Delhi,Conservative,House Purchase,10,Mass
+INV0795,Male,28,Single,Salaried,300000,Chennai,Tamil Nadu,Aggressive,House Purchase,17,Mass
+INV0796,Female,56,Married,Business,1200000,Kolkata,West Bengal,Aggressive,Child Education,19,Affluent
+INV0797,Female,29,Single,Government Employee,2000000,Hyderabad,Telangana,Conservative,Retirement,19,HNI
+INV0798,Male,55,Married,Government Employee,450000,Pune,Maharashtra,Conservative,Child Education,16,Mass
+INV0799,Female,22,Married,Professional,1500000,Chennai,Tamil Nadu,Moderate,Retirement,25,HNI
+INV0800,Male,34,Married,Government Employee,600000,Solapur,Maharashtra,Moderate,Retirement,15,Mass
+INV0801,Female,40,Married,Business,300000,Mumbai,Maharashtra,Moderate,Child Education,17,Mass
+INV0802,Male,25,Single,Self-Employed,450000,Nagpur,Maharashtra,Conservative,Child Education,9,Mass
+INV0803,Female,57,Married,Self-Employed,1200000,Mumbai,Maharashtra,Aggressive,Wealth Creation,18,Affluent
+INV0804,Male,51,Married,Salaried,1000000,Hyderabad,Telangana,Aggressive,House Purchase,14,Affluent
+INV0805,Female,55,Single,Professional,450000,Ahmedabad,Gujarat,Conservative,Wealth Creation,16,Mass
+INV0806,Male,42,Married,Government Employee,800000,Delhi,Delhi,Conservative,Child Education,10,Affluent
+INV0807,Female,31,Married,Business,1500000,Bengaluru,Karnataka,Conservative,Retirement,6,HNI
+INV0808,Male,39,Single,Self-Employed,300000,Solapur,Maharashtra,Aggressive,Wealth Creation,5,Mass
+INV0809,Male,46,Single,Salaried,1200000,Mumbai,Maharashtra,Conservative,House Purchase,14,Affluent
+INV0810,Female,50,Single,Professional,600000,Mumbai,Maharashtra,Moderate,House Purchase,13,Mass
+INV0811,Male,34,Married,Business,300000,Hyderabad,Telangana,Conservative,Retirement,25,Mass
+INV0812,Female,52,Single,Business,300000,Kolkata,West Bengal,Moderate,Wealth Creation,16,Mass
+INV0813,Female,50,Married,Self-Employed,300000,Chennai,Tamil Nadu,Conservative,Wealth Creation,23,Mass
+INV0814,Male,56,Married,Salaried,1000000,Pune,Maharashtra,Conservative,Retirement,18,Affluent
+INV0815,Female,28,Single,Business,2000000,Hyderabad,Telangana,Moderate,House Purchase,11,HNI
+INV0816,Male,50,Single,Business,1500000,Nagpur,Maharashtra,Moderate,House Purchase,20,HNI
+INV0817,Female,27,Married,Self-Employed,1500000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,23,HNI
+INV0818,Male,46,Single,Government Employee,600000,Kolkata,West Bengal,Conservative,Retirement,7,Mass
+INV0819,Female,24,Married,Professional,2000000,Hyderabad,Telangana,Aggressive,Retirement,16,HNI
+INV0820,Female,41,Single,Self-Employed,300000,Pune,Maharashtra,Aggressive,Retirement,6,Mass
+INV0821,Female,40,Single,Self-Employed,1200000,Kolkata,West Bengal,Moderate,Wealth Creation,21,Affluent
+INV0822,Male,22,Single,Salaried,1000000,Pune,Maharashtra,Conservative,Child Education,21,Affluent
+INV0823,Male,58,Single,Government Employee,1000000,Bengaluru,Karnataka,Moderate,Retirement,11,Affluent
+INV0824,Female,34,Single,Professional,300000,Delhi,Delhi,Conservative,House Purchase,9,Mass
+INV0825,Female,58,Single,Government Employee,450000,Hyderabad,Telangana,Moderate,Retirement,5,Mass
+INV0826,Female,51,Married,Business,600000,Nagpur,Maharashtra,Aggressive,House Purchase,7,Mass
+INV0827,Female,43,Married,Professional,1500000,Mumbai,Maharashtra,Aggressive,Child Education,5,HNI
+INV0828,Male,57,Married,Professional,600000,Nagpur,Maharashtra,Moderate,Retirement,6,Mass
+INV0829,Male,59,Married,Business,600000,Hyderabad,Telangana,Moderate,Retirement,21,Mass
+INV0830,Female,46,Married,Salaried,1500000,Delhi,Delhi,Aggressive,House Purchase,23,HNI
+INV0831,Female,31,Married,Salaried,450000,Nagpur,Maharashtra,Aggressive,Wealth Creation,20,Mass
+INV0832,Male,45,Married,Salaried,300000,Ahmedabad,Gujarat,Moderate,Child Education,24,Mass
+INV0833,Male,43,Single,Self-Employed,600000,Delhi,Delhi,Aggressive,Retirement,23,Mass
+INV0834,Male,42,Single,Professional,1000000,Solapur,Maharashtra,Moderate,House Purchase,9,Affluent
+INV0835,Female,23,Single,Business,600000,Mumbai,Maharashtra,Conservative,Child Education,14,Mass
+INV0836,Female,48,Single,Business,450000,Mumbai,Maharashtra,Moderate,Child Education,17,Mass
+INV0837,Female,52,Single,Professional,800000,Ahmedabad,Gujarat,Conservative,Retirement,14,Affluent
+INV0838,Female,38,Single,Professional,600000,Hyderabad,Telangana,Moderate,Retirement,10,Mass
+INV0839,Male,43,Single,Self-Employed,2000000,Solapur,Maharashtra,Conservative,Retirement,23,HNI
+INV0840,Female,58,Married,Professional,600000,Ahmedabad,Gujarat,Aggressive,Wealth Creation,7,Mass
+INV0841,Female,44,Single,Self-Employed,1500000,Ahmedabad,Gujarat,Aggressive,Child Education,21,HNI
+INV0842,Female,52,Single,Professional,1200000,Pune,Maharashtra,Conservative,Child Education,14,Affluent
+INV0843,Male,29,Single,Self-Employed,1200000,Mumbai,Maharashtra,Moderate,Retirement,25,Affluent
+INV0844,Female,23,Single,Professional,2000000,Nagpur,Maharashtra,Moderate,Child Education,9,HNI
+INV0845,Female,60,Single,Self-Employed,300000,Solapur,Maharashtra,Conservative,House Purchase,5,Mass
+INV0846,Male,44,Married,Government Employee,1200000,Nagpur,Maharashtra,Conservative,House Purchase,19,Affluent
+INV0847,Male,41,Single,Professional,800000,Kolkata,West Bengal,Conservative,Retirement,5,Affluent
+INV0848,Female,44,Married,Professional,1500000,Kolkata,West Bengal,Moderate,Retirement,10,HNI
+INV0849,Female,54,Single,Self-Employed,1000000,Solapur,Maharashtra,Aggressive,Child Education,16,Affluent
+INV0850,Female,56,Married,Professional,800000,Chennai,Tamil Nadu,Conservative,Retirement,5,Affluent
+INV0851,Male,22,Single,Salaried,2000000,Ahmedabad,Gujarat,Conservative,Retirement,24,HNI
+INV0852,Male,46,Single,Government Employee,800000,Pune,Maharashtra,Aggressive,Child Education,5,Affluent
+INV0853,Female,56,Married,Business,450000,Ahmedabad,Gujarat,Conservative,Retirement,8,Mass
+INV0854,Female,43,Single,Salaried,800000,Solapur,Maharashtra,Conservative,Child Education,24,Affluent
+INV0855,Male,42,Married,Salaried,2000000,Kolkata,West Bengal,Aggressive,House Purchase,22,HNI
+INV0856,Male,27,Single,Business,800000,Delhi,Delhi,Conservative,House Purchase,17,Affluent
+INV0857,Female,42,Married,Salaried,1500000,Solapur,Maharashtra,Conservative,Wealth Creation,19,HNI
+INV0858,Female,60,Single,Business,1500000,Pune,Maharashtra,Aggressive,Retirement,20,HNI
+INV0859,Female,43,Single,Professional,300000,Hyderabad,Telangana,Conservative,Wealth Creation,25,Mass
+INV0860,Male,58,Married,Professional,2000000,Pune,Maharashtra,Moderate,Retirement,16,HNI
+INV0861,Male,50,Married,Self-Employed,1500000,Delhi,Delhi,Moderate,Retirement,10,HNI
+INV0862,Female,55,Single,Salaried,1000000,Delhi,Delhi,Conservative,House Purchase,16,Affluent
+INV0863,Male,59,Married,Self-Employed,800000,Pune,Maharashtra,Conservative,House Purchase,25,Affluent
+INV0864,Male,55,Married,Salaried,1200000,Kolkata,West Bengal,Moderate,Wealth Creation,17,Affluent
+INV0865,Female,24,Single,Self-Employed,300000,Solapur,Maharashtra,Moderate,Child Education,7,Mass
+INV0866,Female,43,Married,Salaried,1200000,Solapur,Maharashtra,Conservative,Wealth Creation,14,Affluent
+INV0867,Female,52,Single,Professional,300000,Kolkata,West Bengal,Conservative,Retirement,9,Mass
+INV0868,Female,52,Single,Self-Employed,450000,Kolkata,West Bengal,Conservative,Retirement,16,Mass
+INV0869,Female,55,Single,Government Employee,1500000,Ahmedabad,Gujarat,Aggressive,Child Education,21,HNI
+INV0870,Male,43,Single,Business,450000,Nagpur,Maharashtra,Conservative,Retirement,9,Mass
+INV0871,Female,36,Married,Professional,1500000,Mumbai,Maharashtra,Moderate,Retirement,14,HNI
+INV0872,Male,52,Married,Government Employee,800000,Mumbai,Maharashtra,Moderate,House Purchase,17,Affluent
+INV0873,Female,25,Married,Self-Employed,450000,Delhi,Delhi,Moderate,House Purchase,10,Mass
+INV0874,Male,58,Single,Government Employee,1500000,Kolkata,West Bengal,Moderate,Child Education,14,HNI
+INV0875,Female,56,Married,Government Employee,600000,Solapur,Maharashtra,Aggressive,Retirement,10,Mass
+INV0876,Female,24,Single,Professional,800000,Delhi,Delhi,Conservative,Child Education,10,Affluent
+INV0877,Female,31,Single,Self-Employed,1200000,Pune,Maharashtra,Aggressive,Wealth Creation,25,Affluent
+INV0878,Male,37,Single,Business,600000,Kolkata,West Bengal,Moderate,Wealth Creation,17,Mass
+INV0879,Male,54,Single,Government Employee,300000,Kolkata,West Bengal,Conservative,Retirement,19,Mass
+INV0880,Male,47,Single,Business,1200000,Kolkata,West Bengal,Aggressive,Retirement,12,Affluent
+INV0881,Male,31,Single,Government Employee,300000,Delhi,Delhi,Aggressive,House Purchase,10,Mass
+INV0882,Female,30,Married,Professional,1500000,Bengaluru,Karnataka,Conservative,Child Education,14,HNI
+INV0883,Male,36,Single,Government Employee,1500000,Kolkata,West Bengal,Aggressive,Child Education,9,HNI
+INV0884,Male,25,Single,Salaried,1500000,Ahmedabad,Gujarat,Moderate,Child Education,15,HNI
+INV0885,Female,37,Single,Self-Employed,2000000,Pune,Maharashtra,Aggressive,Child Education,15,HNI
+INV0886,Male,39,Married,Professional,800000,Bengaluru,Karnataka,Moderate,Retirement,9,Affluent
+INV0887,Male,51,Married,Self-Employed,800000,Solapur,Maharashtra,Aggressive,Retirement,11,Affluent
+INV0888,Male,29,Single,Government Employee,450000,Solapur,Maharashtra,Aggressive,Wealth Creation,21,Mass
+INV0889,Female,26,Married,Business,1500000,Hyderabad,Telangana,Moderate,Child Education,7,HNI
+INV0890,Male,27,Single,Professional,1200000,Kolkata,West Bengal,Aggressive,Wealth Creation,5,Affluent
+INV0891,Male,54,Married,Professional,300000,Kolkata,West Bengal,Aggressive,Retirement,14,Mass
+INV0892,Female,37,Single,Business,1200000,Hyderabad,Telangana,Moderate,Wealth Creation,12,Affluent
+INV0893,Male,29,Married,Salaried,1000000,Chennai,Tamil Nadu,Conservative,Child Education,15,Affluent
+INV0894,Female,36,Single,Business,1000000,Delhi,Delhi,Aggressive,Retirement,8,Affluent
+INV0895,Male,42,Married,Government Employee,600000,Pune,Maharashtra,Conservative,Wealth Creation,12,Mass
+INV0896,Female,34,Single,Business,450000,Chennai,Tamil Nadu,Moderate,Wealth Creation,22,Mass
+INV0897,Female,60,Married,Professional,450000,Nagpur,Maharashtra,Conservative,House Purchase,15,Mass
+INV0898,Male,45,Single,Self-Employed,600000,Bengaluru,Karnataka,Aggressive,House Purchase,16,Mass
+INV0899,Female,37,Single,Salaried,1200000,Mumbai,Maharashtra,Aggressive,Child Education,23,Affluent
+INV0900,Female,33,Married,Business,450000,Ahmedabad,Gujarat,Aggressive,Child Education,17,Mass
+INV0901,Male,60,Single,Government Employee,450000,Bengaluru,Karnataka,Moderate,Child Education,9,Mass
+INV0902,Male,48,Married,Salaried,800000,Chennai,Tamil Nadu,Aggressive,Wealth Creation,24,Affluent
+INV0903,Male,40,Married,Professional,1200000,Nagpur,Maharashtra,Conservative,Retirement,5,Affluent
+INV0904,Male,45,Married,Salaried,600000,Bengaluru,Karnataka,Aggressive,Child Education,20,Mass
+INV0905,Male,25,Single,Professional,1500000,Pune,Maharashtra,Conservative,House Purchase,15,HNI
+INV0906,Male,55,Married,Self-Employed,1500000,Pune,Maharashtra,Moderate,Retirement,24,HNI
+INV0907,Male,44,Single,Business,2000000,Chennai,Tamil Nadu,Aggressive,Wealth Creation,22,HNI
+INV0908,Male,45,Single,Professional,800000,Chennai,Tamil Nadu,Aggressive,Retirement,18,Affluent
+INV0909,Male,31,Married,Government Employee,1000000,Hyderabad,Telangana,Aggressive,Wealth Creation,21,Affluent
+INV0910,Female,53,Married,Professional,1200000,Mumbai,Maharashtra,Conservative,Wealth Creation,23,Affluent
+INV0911,Male,22,Single,Business,600000,Nagpur,Maharashtra,Aggressive,House Purchase,5,Mass
+INV0912,Male,37,Married,Business,300000,Kolkata,West Bengal,Aggressive,Child Education,8,Mass
+INV0913,Female,50,Married,Professional,300000,Nagpur,Maharashtra,Moderate,House Purchase,16,Mass
+INV0914,Male,60,Married,Self-Employed,450000,Delhi,Delhi,Moderate,Child Education,5,Mass
+INV0915,Male,40,Single,Salaried,1000000,Bengaluru,Karnataka,Aggressive,Retirement,7,Affluent
+INV0916,Female,52,Single,Government Employee,2000000,Chennai,Tamil Nadu,Aggressive,Retirement,16,HNI
+INV0917,Male,23,Single,Salaried,2000000,Solapur,Maharashtra,Conservative,House Purchase,17,HNI
+INV0918,Female,41,Single,Professional,800000,Ahmedabad,Gujarat,Moderate,Child Education,24,Affluent
+INV0919,Male,44,Single,Professional,1500000,Hyderabad,Telangana,Conservative,House Purchase,24,HNI
+INV0920,Female,53,Single,Government Employee,450000,Hyderabad,Telangana,Aggressive,Wealth Creation,22,Mass
+INV0921,Female,43,Married,Self-Employed,800000,Nagpur,Maharashtra,Moderate,Child Education,15,Affluent
+INV0922,Female,58,Married,Professional,450000,Chennai,Tamil Nadu,Moderate,Child Education,21,Mass
+INV0923,Male,39,Single,Self-Employed,2000000,Hyderabad,Telangana,Moderate,House Purchase,12,HNI
+INV0924,Female,46,Single,Salaried,800000,Bengaluru,Karnataka,Aggressive,House Purchase,21,Affluent
+INV0925,Female,36,Married,Professional,1500000,Delhi,Delhi,Conservative,Wealth Creation,6,HNI
+INV0926,Male,49,Married,Government Employee,2000000,Ahmedabad,Gujarat,Conservative,Retirement,20,HNI
+INV0927,Female,53,Married,Business,1200000,Mumbai,Maharashtra,Conservative,Wealth Creation,17,Affluent
+INV0928,Male,27,Married,Salaried,1500000,Delhi,Delhi,Aggressive,Retirement,21,HNI
+INV0929,Male,36,Married,Business,300000,Nagpur,Maharashtra,Moderate,Wealth Creation,15,Mass
+INV0930,Male,46,Married,Professional,1500000,Hyderabad,Telangana,Moderate,Retirement,11,HNI
+INV0931,Female,33,Single,Professional,2000000,Hyderabad,Telangana,Aggressive,House Purchase,15,HNI
+INV0932,Male,31,Married,Professional,600000,Chennai,Tamil Nadu,Moderate,Child Education,21,Mass
+INV0933,Male,24,Married,Self-Employed,600000,Solapur,Maharashtra,Aggressive,Retirement,9,Mass
+INV0934,Female,54,Married,Professional,2000000,Bengaluru,Karnataka,Moderate,Retirement,23,HNI
+INV0935,Male,28,Married,Professional,600000,Ahmedabad,Gujarat,Moderate,House Purchase,25,Mass
+INV0936,Female,24,Married,Professional,1500000,Ahmedabad,Gujarat,Conservative,Child Education,17,HNI
+INV0937,Female,53,Single,Salaried,1500000,Nagpur,Maharashtra,Conservative,House Purchase,19,HNI
+INV0938,Male,29,Married,Self-Employed,450000,Chennai,Tamil Nadu,Conservative,Child Education,11,Mass
+INV0939,Female,28,Married,Self-Employed,450000,Kolkata,West Bengal,Aggressive,Child Education,10,Mass
+INV0940,Female,57,Married,Salaried,800000,Solapur,Maharashtra,Aggressive,House Purchase,5,Affluent
+INV0941,Male,42,Single,Business,2000000,Ahmedabad,Gujarat,Moderate,Child Education,22,HNI
+INV0942,Male,26,Single,Professional,300000,Chennai,Tamil Nadu,Moderate,Retirement,17,Mass
+INV0943,Male,42,Married,Professional,1200000,Mumbai,Maharashtra,Aggressive,House Purchase,15,Affluent
+INV0944,Female,31,Married,Government Employee,600000,Delhi,Delhi,Conservative,Retirement,13,Mass
+INV0945,Male,25,Married,Government Employee,600000,Nagpur,Maharashtra,Moderate,Wealth Creation,9,Mass
+INV0946,Female,60,Single,Business,1500000,Kolkata,West Bengal,Aggressive,Wealth Creation,5,HNI
+INV0947,Female,52,Married,Professional,1000000,Kolkata,West Bengal,Moderate,Retirement,10,Affluent
+INV0948,Male,23,Married,Professional,2000000,Hyderabad,Telangana,Moderate,House Purchase,21,HNI
+INV0949,Female,51,Married,Business,1200000,Solapur,Maharashtra,Moderate,Retirement,20,Affluent
+INV0950,Male,59,Single,Professional,600000,Bengaluru,Karnataka,Aggressive,Child Education,16,Mass
+INV0951,Female,54,Married,Government Employee,1500000,Mumbai,Maharashtra,Aggressive,Child Education,22,HNI
+INV0952,Male,45,Married,Self-Employed,300000,Chennai,Tamil Nadu,Conservative,Child Education,6,Mass
+INV0953,Male,41,Single,Salaried,1000000,Bengaluru,Karnataka,Conservative,Retirement,9,Affluent
+INV0954,Male,25,Married,Self-Employed,300000,Delhi,Delhi,Aggressive,House Purchase,21,Mass
+INV0955,Male,26,Married,Professional,1500000,Kolkata,West Bengal,Conservative,Wealth Creation,23,HNI
+INV0956,Male,58,Single,Salaried,600000,Solapur,Maharashtra,Moderate,Wealth Creation,8,Mass
+INV0957,Male,52,Married,Business,2000000,Chennai,Tamil Nadu,Moderate,Wealth Creation,19,HNI
+INV0958,Male,27,Single,Professional,600000,Hyderabad,Telangana,Moderate,Child Education,13,Mass
+INV0959,Male,55,Married,Salaried,1500000,Delhi,Delhi,Conservative,House Purchase,6,HNI
+INV0960,Male,30,Married,Salaried,450000,Hyderabad,Telangana,Conservative,Wealth Creation,23,Mass
+INV0961,Female,37,Married,Professional,1500000,Pune,Maharashtra,Moderate,House Purchase,17,HNI
+INV0962,Male,38,Married,Business,1000000,Delhi,Delhi,Aggressive,Retirement,18,Affluent
+INV0963,Male,35,Married,Business,450000,Kolkata,West Bengal,Moderate,Wealth Creation,19,Mass
+INV0964,Female,52,Married,Professional,1000000,Delhi,Delhi,Moderate,Wealth Creation,13,Affluent
+INV0965,Male,48,Single,Professional,450000,Hyderabad,Telangana,Aggressive,Retirement,9,Mass
+INV0966,Female,36,Married,Salaried,1000000,Solapur,Maharashtra,Aggressive,House Purchase,25,Affluent
+INV0967,Female,45,Single,Business,800000,Hyderabad,Telangana,Conservative,Child Education,20,Affluent
+INV0968,Male,27,Single,Business,800000,Chennai,Tamil Nadu,Conservative,Retirement,19,Affluent
+INV0969,Female,37,Single,Self-Employed,600000,Mumbai,Maharashtra,Conservative,Child Education,25,Mass
+INV0970,Male,37,Single,Professional,2000000,Solapur,Maharashtra,Moderate,Retirement,12,HNI
+INV0971,Female,54,Married,Self-Employed,450000,Kolkata,West Bengal,Conservative,Child Education,14,Mass
+INV0972,Female,40,Married,Self-Employed,1500000,Nagpur,Maharashtra,Conservative,Retirement,12,HNI
+INV0973,Male,25,Married,Business,1500000,Solapur,Maharashtra,Aggressive,Retirement,18,HNI
+INV0974,Male,31,Single,Self-Employed,1200000,Mumbai,Maharashtra,Aggressive,Child Education,24,Affluent
+INV0975,Female,54,Married,Self-Employed,800000,Pune,Maharashtra,Aggressive,Child Education,24,Affluent
+INV0976,Male,56,Married,Self-Employed,1200000,Hyderabad,Telangana,Aggressive,House Purchase,23,Affluent
+INV0977,Male,30,Single,Business,450000,Chennai,Tamil Nadu,Moderate,Retirement,19,Mass
+INV0978,Male,27,Single,Government Employee,450000,Nagpur,Maharashtra,Conservative,Child Education,24,Mass
+INV0979,Female,36,Married,Government Employee,300000,Delhi,Delhi,Conservative,Child Education,7,Mass
+INV0980,Male,38,Single,Business,2000000,Bengaluru,Karnataka,Conservative,Wealth Creation,23,HNI
+INV0981,Female,46,Married,Government Employee,300000,Kolkata,West Bengal,Moderate,Retirement,6,Mass
+INV0982,Male,33,Married,Professional,600000,Nagpur,Maharashtra,Conservative,Retirement,22,Mass
+INV0983,Male,23,Single,Government Employee,800000,Pune,Maharashtra,Conservative,Wealth Creation,9,Affluent
+INV0984,Female,59,Married,Business,2000000,Chennai,Tamil Nadu,Moderate,House Purchase,23,HNI
+INV0985,Male,46,Single,Professional,600000,Solapur,Maharashtra,Moderate,House Purchase,16,Mass
+INV0986,Male,43,Married,Professional,600000,Kolkata,West Bengal,Aggressive,Wealth Creation,22,Mass
+INV0987,Male,34,Married,Self-Employed,1200000,Chennai,Tamil Nadu,Aggressive,Child Education,6,Affluent
+INV0988,Male,22,Single,Salaried,300000,Nagpur,Maharashtra,Moderate,House Purchase,21,Mass
+INV0989,Female,57,Married,Business,1200000,Ahmedabad,Gujarat,Aggressive,Child Education,22,Affluent
+INV0990,Male,27,Single,Professional,800000,Kolkata,West Bengal,Aggressive,House Purchase,24,Affluent
+INV0991,Male,42,Married,Professional,1500000,Solapur,Maharashtra,Conservative,House Purchase,25,HNI
+INV0992,Male,43,Married,Self-Employed,1200000,Bengaluru,Karnataka,Aggressive,Wealth Creation,11,Affluent
+INV0993,Male,36,Single,Business,1200000,Delhi,Delhi,Aggressive,Wealth Creation,6,Affluent
+INV0994,Female,27,Married,Business,2000000,Hyderabad,Telangana,Moderate,Retirement,23,HNI
+INV0995,Female,60,Married,Professional,2000000,Bengaluru,Karnataka,Moderate,House Purchase,23,HNI
+INV0996,Female,60,Single,Self-Employed,600000,Kolkata,West Bengal,Conservative,Retirement,7,Mass
+INV0997,Female,44,Married,Self-Employed,2000000,Nagpur,Maharashtra,Aggressive,House Purchase,9,HNI
+INV0998,Male,31,Married,Professional,300000,Ahmedabad,Gujarat,Aggressive,Child Education,23,Mass
+INV0999,Male,48,Married,Business,600000,Solapur,Maharashtra,Moderate,Retirement,21,Mass
+INV1000,Female,37,Single,Business,300000,Nagpur,Maharashtra,Conservative,House Purchase,22,Mass
