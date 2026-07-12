@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.X-blue?logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
 ![GitHub](https://img.shields.io/badge/Status-Completed-success)
